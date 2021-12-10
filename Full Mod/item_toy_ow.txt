@@ -1,0 +1,25 @@
+item_toy_ow
+
+[OBJECT:ITEM]
+
+
+==============================================================================================
+##############################################################################################
+==============================================================================================
+# ECHOES OF THE EYE SPOILER WARNING! #
+----------------------------------------------------------------------------------------------
+# CONTENTS BELOW THIS POINT CONTAIN SPOILERS FOR THE ECHOES OF THE EYE DLC! #
+# DO NOT READ ANY FURTHER UNLESS YOU'RE OKAY WITH SEEING THOSE SPOILERS! #
+==============================================================================================
+##############################################################################################
+==============================================================================================
+
+
+A triangular board with 3 "Antler" pieces, and one "Eye" piece. The rules are unknown,
+all we've heard is apparently that the Antler pieces are trying to "trap" the Eye piece,
+but the Antler pieces can be removed from the board if the Eye "sees" them.
+- https://i.imgur.com/zFEplWh.png
+- https://static.wikia.nocookie.net/outerwilds_gamepedia/images/9/91/The_Stranger%27s_inhabitants_large_portait.png
+[ITEM_TOY:OW_ITEM_TOY_BOARDGAME]
+[NAME:echoes board:echoes boards] made up a name for the game
+[HARD_MAT]
