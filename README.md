@@ -1,4 +1,4 @@
-# Dwarven Wilds - v0.1.0 [47.05]
+# Dwarven Wilds - v0.1.1 [47.05]
 
 _NOT AN OFFICIAL OUTER WILDS PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOBIUS DIGITAL OR ANNAPURNA INTERACTIVE._
 
@@ -13,6 +13,10 @@ __The raw files comments have even more spoilers (including story ones!) than yo
 Technically one of the base game creatures/civs I have listed in the spoiler warning below is not a proper spoiler since you find out about them in the museum before you can even get in your spaceship, but their culture (and by extension their personalities) _is_ a spoiler, which is why they are absent from the spoiler free version of this mod.
 
 This mod was created with the help of the [Dwarf Fortress RAW language server extension][LS], which is currently in alpha, but I still recommend it for anyone wanting to make Dwarf Fortress mods, either for the first time or as a veteran.
+
+If you want to check out my other mods, follow one of these links:
+- DFFD downloads: https://dffd.bay12games.com/who.php?id=9116
+- Github sources: https://github.com/Crabman-DF-Mods
 
 ## Installation
 
