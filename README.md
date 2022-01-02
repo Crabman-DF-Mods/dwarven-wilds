@@ -12,7 +12,7 @@ __The raw files comments have even more spoilers (including story ones!) than yo
 
 Technically one of the base game creatures/civs I have listed in the spoiler warning below is not a proper spoiler since you find out about them in the museum before you can even get in your spaceship, but their culture (and by extension their personalities) _is_ a spoiler, which is why they are absent from the spoiler free version of this mod.
 
-This mod was created with the help of the [Dwarf Fortress RAW language server extension][LS], which is currently in alpha, but I still recommend it for anyone wanting to make Dwarf Fortress mods, either for the first time or as a veteran.
+This mod was created with the help of the [Dwarf Fortress RAW language server extension][LS], which is currently in beta, but I still recommend it for anyone wanting to make Dwarf Fortress mods, either for the first time or as a veteran.
 
 If you want to check out my other mods, follow one of these links:
 - DFFD downloads: https://dffd.bay12games.com/who.php?id=9116
@@ -32,20 +32,24 @@ Decide which of those versions you want, and copy-paste all the files in the cor
 
 ### Base Game
 
-Hearthians: intrepid blue-skinned creatures driven by intense curiosity; they have a natural knack for the acquisition of knowledge and tend to be quite friendly. Their culture puts a heavy emphasis on community and exploration.
+__Hearthians:__ intrepid blue-skinned creatures driven by intense curiosity; they have a natural knack for the acquisition of knowledge and tend to be quite friendly.
 
-Ghost Matter: a deadly transparent substance that cannot be seen easily with the naked eye; it will inflict a painful death on anybody who wanders into a cloud of it unwittingly. Beware of encountering it while mining!
+Their culture puts a heavy emphasis on community and exploration.
+
+__Ghost Matter:__ a deadly transparent substance that cannot be seen easily with the naked eye; it will inflict a painful death on anybody who wanders into a cloud of it unwittingly. Beware of encountering it while mining!
 
 <details>
   <summary>Spoiler warning</summary>
   
-  Nomai: 3 eyed, goatlike people who are natural scientists with great interest in understanding the world. Their culture harbors a deep respect for nature, and reinforces their natural interest in learning.
+  __Nomai:__ 3 eyed, goatlike people who are natural scientists with great interest in understanding the world.
+  
+  Their culture harbors a deep respect for nature, and reinforces their natural interest in learning.
 
-  Star Platinum: strange ore that looks like rock embedded with glowing stars; in the dark it resembles the night sky. It can temporarily withstand the hottest flame in existence, dragonfire!
+  __Star Platinum:__ strange ore that looks like rock embedded with glowing stars; in the dark it resembles the night sky. It can temporarily withstand the hottest flame in existence, dragonfire!
 
-  Giants Deep Jellyfish: gigantic orange jellyfish with electrified bodies and tentacles. They will assuredly make you sick if you try eating them, even if their electricity is removed.
+  __Giants Deep Jellyfish:__ gigantic orange jellyfish with electrified bodies and tentacles. They will assuredly make you sick if you try eating them, even if their electricity is removed.
 
-  Bramble Anglerfish: flying, blind fish that can survive without any oxygen, and which are big enough to swallow a small whale in principle (due to limitations in DF's engine though, they sadly can't do this, yet).
+  __Bramble Anglerfish:__ flying, blind fish that can survive without any oxygen, and which are big enough to swallow a small whale in principle (due to limitations in DF's engine though, they sadly can't do this, yet).
   
 </details>
 
@@ -54,7 +58,65 @@ Ghost Matter: a deadly transparent substance that cannot be seen easily with the
 <details>
   <summary>Spoiler warning</summary>
   
-  Owlk: large owl-like people with antlers and hooves, who dwell in wetland and forest cities, traveling primarily by river; they have a somewhat traditionalist nature, being slightly fearful, vengeful and reserved, and their culture emphasizes further the importance of tradition and the harmonious lives they so value.
+  __Owlk:__ large owl-like people with antlers and hooves, who dwell in wetland and forest cities, traveling primarily by river; they have a somewhat traditionalist nature, being slightly fearful, vengeful and reserved.
+  
+  Their culture emphasizes further the importance of tradition and the harmonious lives they so value. They invented a unique triangular board game, where the aim is "trapping" a specific game piece using 3 other pieces.
+  
+</details>
+
+## Planned Content
+
+### Base Game
+
+__Sap Wine:__ this wine is brewed from sap tapped from trees, considered a delicacy by hearthians, or at least, by the ones who do the brewing...
+
+__Marshmallows:__ delicious, soft and sugary confections that can be cooked above a fire. They are a traditional snack for hearthian travelers.
+
+Most new objects/content listed below this point will unfortunately not be possible to implement faithfully until future updates for Dwarf Fortress come out to add the required features/mechanics:
+
+<details>
+  <summary>Spoiler warning</summary>
+  
+  __Dark Brambles:__ these plants will require the ability for "evil" plants to spread and overtake areas entirely, as well as for the seeds to have space-warping abilities like portals and "pocket dimensions" and being bigger on the inside and such. In other words, at least the Myth & Magic update (I would settle for it at least take over entire regions and threaten the integrity of the land or world, even if the space-warping doesn't happen).
+
+  __Nomaian Magic:__ when Myth & Magic comes, nomai will be given the ability to see special things with their third eye (not sure what exactly yet, but something normal beings can't), and to have magic (artifact based, not innate) that can do the following:
+  
+  - Use telekinesis in their technology (in reference to their self-repairing rock signs and weird marble doors).
+
+  - Teleport/make portals (in reference to their black/white hole warp drives).
+
+  - Manipulate gravity, making floors with a fixed gravity direction (hopefully enabling nice weird architecture), and special gravity crystals that can be used to change the gravity of surfaces.
+
+  - Magical projection stones that can project/send messages to distant, set locations with the required "projection stone" infrastructure.
+
+  - Other projection stones that allow one to remotely view/astrally project to the correctly set locations, so you can see it as if you were truly there. (even walk around in a certain range)
+
+  - They will have a cultural interest in learning all the magic they possibly can (that is procedurally generated in that world). Their special eye will most likely help in this regard most of the time.
+
+  __Nomaian Staves:__ an item created by the nomai, with a built in ability to create writing, and to levitate objects/control things telekinetically. Obviously will need nomaian magic to be implemented. It will also be able to play music, and this feature will have to wait until Toady's plans to merge items into one object type are implemented.
+  
+</details>
+
+### Echoes of the Eye
+
+<details>
+  <summary>Spoiler warning</summary>
+  
+  __Owlk Instruments:__ the owlks have a weird cultural instrument I want to add for their entity/civ as a hardcoded instrument (alongside generated ones). This won't require future DF updates unlike the other planned content; however, I have no idea how it works or what its parts are because I don't know anything about instruments, so it may be some time before I figure it out and implement it.
+
+  __Owlk Magic:__ with the Myth & Magic update, owlks will be given access to a lot of magic:
+  
+  - Magic based on green flames and dreams/sleep, which will enable them to enter a shared "dream world" and keep their souls in green flames. They can reside in the dream world even after their physical body dies, so long as their flame is still lit.
+  
+  - Permanently "cloak" objects/areas, which makes them invisible/dark, silent (trapping all sounds inside the cloak), and can be used to hide other magical signals from escaping the cloak. To be clear, it's possible to uncloak the places, but by "permanent" I just mean it doesn't wear off or require active sustaining.
+  
+  - Make objects/mechanisms that are triggered or controlled by light. Ideally this wouldn't be actual magic, but such a construction will probably have to be implemented in DF using magic.
+
+  - "Lanterns", which they will carry around as a matter of culture to so they can use mechanisms controlled by light. Also will tie in to the dream/flame magic, and have a variant that can narrow down/project light more narrowly.
+
+  - Vision torches, allowing them to share memories or thoughts with one another, even in cases of a language or species barrier (not relevant now except for kobolds, but Toady likes languages and has said he wants to eventually make the game auto-generate them). They can plant the ideas inside the torch as well, so they won't need to actively be holding the torch to share the visions.
+
+  - Placing memories and thoughts/ideas from vision torches into other objects (reels), which can be played/shown to a larger audience.
   
 </details>
 
@@ -66,7 +128,7 @@ You can do whatever you like with this mod yourself privately, but you may not r
 
 If you want to use this in a modpack or mod compilation, please ask first.
 
-<!--Stuff below here shouldn't be visible-->
+<!--Links-->
 [LS]: https://gitlab.com/df-modding-tools/df-raw-language-server
 [Dwarf_Fortress]: https://bay12games.com/dwarves
 [Source]: https://store.steampowered.com/app/753640/Outer_Wilds/
