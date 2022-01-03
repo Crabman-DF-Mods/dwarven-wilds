@@ -21,6 +21,7 @@ The meaning of each subcategory of change is as follows:
 ### Added
 - `CHANGELOG.md` file
 - Info in `README.md` about all the planned content for the mod, and mentioned the owlk civ "board game" toy (was already in the mod, just not mentioned)
+- `SYMBOL` for hearthian names (all based off types of stone)
 
 ### Changed
 - `README.md` formatting changes to make for easier reading, and I edited one of the starting paragraphs to reflect that the DF RAW LS is out of alpha now
