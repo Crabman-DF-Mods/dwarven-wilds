@@ -4,13 +4,11 @@ _NOT AN OFFICIAL OUTER WILDS PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOBIUS 
 
 This mod for [Dwarf Fortress][Dwarf_Fortress] adds the unique creatures, civilizations, and materials seen and/or mentioned in [Outer Wilds][Source] and its DLC, Echoes of the Eye.
 
-__Be warned__, Outer Wilds is a game whose fun comes from discovery and gaining knowledge through exploration of the world, and __over half of this mod's contents would count as spoilers for both the main game and DLC__, and this would likely impact the enjoyability of the game.
+__Be warned__, Outer Wilds is a game whose fun comes from discovery and gaining knowledge through exploration of the world, and __over half of this mod's contents/modules would count as spoilers for either the main game or DLC__, and this would likely impact the enjoyability of the game.
 
-__Therefore I highly recommend that you first play Outer Wilds (and its DLC, Echoes of the Eye) before using the full version of this mod.__ Strictly speaking you wouldn't need to play all the way to the end to find everything that is in this mod, but unfortunately I can't be specific about what "the safe points" are without that also being a spoiler.
+__Therefore I highly recommend that you first play Outer Wilds (and/or its DLC, Echoes of the Eye) before using the spoilery modules of this mod.__ Strictly speaking you wouldn't need to play all the way to the end to find everything that is in this mod, but unfortunately I can't be specific about what "the safe points" are without that also being a spoiler.
 
-__The raw files comments have even more spoilers (including story ones!) than you would get just playing with the mod__, so be warned about that before you go digging around this mod's code.
-
-Technically one of the base game creatures/civs I have listed in the spoiler warning below is not a proper spoiler since you find out about them in the museum before you can even get in your spaceship, but their culture (and by extension their personalities) _is_ a spoiler, which is why they are absent from the spoiler free version of this mod.
+__The raw files comments have even more spoilers (including story ones!) than you would get just playing with/using this mod__, so be warned about that before you go digging around this mod's code (even the spoiler-free module files have some spoilery comments).
 
 This mod was created with the help of the [Dwarf Fortress RAW language server extension][LS], which is currently in beta, but I still recommend it for anyone wanting to make Dwarf Fortress mods, either for the first time or as a veteran.
 
@@ -20,23 +18,29 @@ If you want to check out my other mods, follow one of these links:
 
 ## Installation
 
-There are 3 folders here, each for a different version of the mod:
+There are 4 folders here, each for a different portion of the mod:
+- __Spoiler Free:__ contains the "hearthian" creatures/civ, and the "ghost matter" material (which aren't spoilers because you find out about them at the start of the game).
+- __Nomai Spoilers:__ contains the Nomai creatures/civ. Their existence/appearance is not a spoiler since they are seen at the start of the game in the hearthian museum before you even get in your spaceship, but some aspects of their culture (and therefore civ) are spoilers.
+- __Other Base Game Spoilers__ contains all the spoilery content from the base game, _except_ for the nomai creatures/civ.
+- __Echoes of the Eye Spoilers:__ contains content from the Echoes of the Eye DLC, which is all 100% spoilers. I recommend finishing the DLC before you use this module.
 
-- __Full Mod:__ contains all this mods content, including all spoilery things from both the base game and DLC.
-- __Only Base Game Spoilers:__ contains all the same content as Full Mod, _except_ the content from the Echoes of the Eye DLC.
-- __Spoiler Free:__ contains none of the spoilery content; that is, it only has the "hearthian" creatures/civ, and the "ghost matter" material (which aren't spoilers because you find out about them at the start of the game).
+Decide which of these modules you want, and copy-paste all the files in the corresponding folder into `/raw/objects/`. If you ever decide to change to a different, more spoilery version, just dump that folder's files in as well (you'll probably want to generate a new world when doing this though).
 
-Decide which of those versions you want, and copy-paste all the files in the corresponding folder into `/raw/objects/`. If you ever decide to change to a different, more spoilery version, you must make sure to overwrite any files that are shared between the versions (you should get a prompt asking you about overwriting files when you copy them in; say yes to all overwrites).
+As for knowing when to enable a given module (if you want to avoid the spoilers):
+
+The ending of the base game will be clear enough probably (it can only be done after solving "the big mystery", and the credits will run), so you'll know it's safe to enable "Nomai Spoilers" and "Other Base Game Spoilers" then. For Echoes of the Eye content, everything related to it will be in the lower right area of the rumor map and the "rumor boxes" are colored blue, so you should be able to tell you're finished with the DLC content when you have found several of the blue rumor boxes and none of them have that marker saying "there's more to discover here".
 
 ## Content
 
-### Base Game
+### Spoiler Free
 
 __Hearthians:__ intrepid blue-skinned creatures driven by intense curiosity; they have a natural knack for the acquisition of knowledge and tend to be quite friendly.
 
 Their culture puts a heavy emphasis on community and exploration.
 
-__Ghost Matter:__ a deadly transparent substance that cannot be seen easily with the naked eye; it will inflict a painful death on anybody who wanders into a cloud of it unwittingly. Beware of encountering it while mining!
+__Ghost Matter:__ a deadly, transparent substance that cannot be seen easily with the naked eye; it will inflict a painful death on anybody who wanders into a cloud of it unwittingly. Beware of encountering it while mining!
+
+### Nomai Spoilers
 
 <details>
   <summary>Spoiler warning</summary>
@@ -44,6 +48,13 @@ __Ghost Matter:__ a deadly transparent substance that cannot be seen easily with
   __Nomai:__ 3 eyed, goatlike people who are natural scientists with great interest in understanding the world.
   
   Their culture harbors a deep respect for nature, and reinforces their natural interest in learning.
+  
+</details>
+
+### Other Base Game Spoilers
+
+<details>
+  <summary>Spoiler warning</summary>
 
   __Star Platinum:__ strange ore that looks like rock embedded with glowing stars; in the dark it resembles the night sky. It can temporarily withstand the hottest flame in existence, dragonfire!
 
@@ -53,12 +64,12 @@ __Ghost Matter:__ a deadly transparent substance that cannot be seen easily with
   
 </details>
 
-### Echoes of the Eye
+### Echoes of the Eye Spoilers
 
 <details>
   <summary>Spoiler warning</summary>
   
-  __Owlk:__ large owl-like people with antlers and hooves, who dwell in wetland and forest cities, traveling primarily by river; they have a somewhat traditionalist nature, being slightly fearful, vengeful and reserved.
+  __Owlk:__ large, long-lived owl-like people with antlers and hooved feet, who dwell in wetland and forest cities, traveling primarily by river; they have a somewhat traditionalist nature, being slightly fearful, vengeful and reserved.
   
   Their culture emphasizes further the importance of tradition and the harmonious lives they so value. They invented a unique triangular board game, where the aim is "trapping" a specific game piece using 3 other pieces.
   
@@ -66,18 +77,20 @@ __Ghost Matter:__ a deadly transparent substance that cannot be seen easily with
 
 ## Planned Content
 
-### Base Game
+### Spoiler Free
 
-__Sap Wine:__ this wine is brewed from sap tapped from trees, considered a delicacy by hearthians, or at least, by the ones who do the brewing...
+__Sap Wine:__ this wine is brewed from sap tapped from trees and considered a delicacy by hearthians, or at least, that's what the ones who do the brewing say...
 
-__Marshmallows:__ delicious, soft and sugary confections that can be cooked above a fire. They are a traditional snack for hearthian travelers.
+__Marshmallows:__ delicious, soft and sugary confections that can be cooked above a fire. A traditional snack for hearthian travelers.
 
-Most new objects/content listed below this point will unfortunately not be possible to implement faithfully until future updates for Dwarf Fortress come out to add the required features/mechanics:
+### Nomai Spoilers
+
+The new objects/content here will unfortunately not be possible to implement faithfully until future updates for Dwarf Fortress come out to add the required features/mechanics.
+
+Be warned that there are more spoilers here than just their culture, so it's definitely a lot more spoilery than the current "Nomai Spoilers" content.
 
 <details>
   <summary>Spoiler warning</summary>
-  
-  __Dark Brambles:__ these plants will require the ability for "evil" plants to spread and overtake areas entirely, as well as for the seeds to have space-warping abilities like portals and "pocket dimensions" and being bigger on the inside and such. In other words, at least the Myth & Magic update (I would settle for it at least take over entire regions and threaten the integrity of the land or world, even if the space-warping doesn't happen).
 
   __Nomaian Magic:__ when Myth & Magic comes, nomai will be given the ability to see special things with their third eye (not sure what exactly yet, but something normal beings can't), and to have magic (artifact based, not innate) that can do the following:
   
@@ -97,7 +110,20 @@ Most new objects/content listed below this point will unfortunately not be possi
   
 </details>
 
-### Echoes of the Eye
+### Other Base Game Spoilers
+
+This content will also be impossible to implement faithfully until later updates come.
+
+<details>
+  <summary>Spoiler warning</summary>
+  
+  __Dark Brambles:__ these plants will require the ability for "evil" plants to spread and overtake areas entirely, as well as for the seeds to have space-warping abilities like portals and "pocket dimensions" and being bigger on the inside and such. In other words, at least the Myth & Magic update (I would settle for it at least taking over entire regions and threatening the integrity of the land or world, even if the space-warping doesn't happen).
+  
+</details>
+
+### Echoes of the Eye Spoilers
+
+Most content here, once again, will be impossible to implement until later, but unlike the above, _some_ of it will be doable before then.
 
 <details>
   <summary>Spoiler warning</summary>
@@ -108,7 +134,7 @@ Most new objects/content listed below this point will unfortunately not be possi
   
   - Magic based on green flames and dreams/sleep, which will enable them to enter a shared "dream world" and keep their souls in green flames. They can reside in the dream world even after their physical body dies, so long as their flame is still lit.
   
-  - Permanently "cloak" objects/areas, which makes them invisible/dark, silent (trapping all sounds inside the cloak), and can be used to hide other magical signals from escaping the cloak. To be clear, it's possible to uncloak the places, but by "permanent" I just mean it doesn't wear off or require active sustaining.
+  - Permanently "cloak" objects/areas, which makes them invisible/dark, silent (trapping all sounds inside the cloak), and can be used to hide other magical signals from escaping the cloak. To be clear, it's possible to uncloak the places, but by "permanent" I just mean it doesn't wear off or require active sustaining. This would definitely _not_ be something nomai can see through with their third eye. 
   
   - Make objects/mechanisms that are triggered or controlled by light. Ideally this wouldn't be actual magic, but such a construction will probably have to be implemented in DF using magic.
 

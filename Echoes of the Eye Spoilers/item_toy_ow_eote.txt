@@ -1,4 +1,4 @@
-item_toy_ow
+item_toy_ow_eote
 
 [OBJECT:ITEM]
 

@@ -13,7 +13,7 @@ inorganic_ow
 TODO make them only slowly melt, allowing the crystals to remain for a long time, while surrounded by the clouds of gas too
 [MELTING_POINT:9900]
 [BOILING_POINT:9901]
-TODO make the syndrome be disabled by water (as in, not be colored)
+TODO make the syndrome be disabled by water/make it unable to affect anybody if it's in water
 TODO make it, as Hornfels says, "impossibly cold". MAT_FIXED_TEMP is tempting, but I see no way for it to turn to gas if I use that.
 [SYNDROME]
     [SYN_NAME:ghost matter poisoning]

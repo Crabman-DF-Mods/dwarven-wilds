@@ -1,0 +1,30 @@
+body_ow_other
+
+[OBJECT:BODY]
+
+
+==============================================================================================
+##############################################################################################
+==============================================================================================
+# BASE GAME SPOILER WARNING! #
+----------------------------------------------------------------------------------------------
+# CONTENTS BELOW THIS POINT CONTAIN SPOILERS FOR OUTER WILDS BASE GAME! #
+# DO NOT READ ANY FURTHER UNLESS YOU'RE OKAY WITH SEEING THOSE SPOILERS! #
+==============================================================================================
+##############################################################################################
+==============================================================================================
+
+
+Anglerfish
+[BODY:ILLICIUM]
+	TODO sort category for tissue layers later
+	[BP:ILLICIUM:rod:STP][CONTYPE:HEAD][CATEGORY:ANTENNA]
+		[DEFAULT_RELSIZE:50]
+	[BP:ESCA:lure:STP][CON:ILLICIUM][SMALL][CATEGORY:ANTENNA]
+		[DEFAULT_RELSIZE:5]
+
+BODY:ANGLER_TENTACLES]
+3 groups of 4
+
+BODY:ANGLER_TOOTH_TENTACLES]
+15, in a ring around the back of the body

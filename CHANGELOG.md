@@ -24,7 +24,10 @@ The meaning of each subcategory of change is as follows:
 - `SYMBOL` for hearthian names (all based off types of stone)
 
 ### Changed
-- `README.md` formatting changes to make for easier reading, and I edited one of the starting paragraphs to reflect that the DF RAW LS is out of alpha now
+- Restructured the mod to be more "modular" so you can have say, the owlks but not the nomai, if you finished the DLC before the main game for example
+- Updated `README.md` installation instructions, make sure to check those instructions!
+- `README.md` formatting changes to make for easier reading
+- Edited one of the `README.md` starting paragraphs to reflect that the DF RAW LS is out of alpha now
 
 ### Removed
 
