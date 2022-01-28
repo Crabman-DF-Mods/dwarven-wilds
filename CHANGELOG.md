@@ -31,6 +31,7 @@ The meaning of each subcategory of change is as follows:
 - Updated `README.md` installation instructions, make sure to check those instructions!
 - `README.md` formatting changes to make for easier reading
 - Edited one of the `README.md` starting paragraphs to reflect that the DF RAW LS is out of alpha now
+- Changed nomaian civ to speak dwarven language (just so they're distinct from hearthians that way)
 
 ### Removed
 
