@@ -123,12 +123,14 @@ creature_ow_other
 	[AQUATIC][UNDERSWIM][IMMOBILE_LAND]
 	[MEANDERER][NATURAL][LARGE_PREDATOR]
 	[PETVALUE:1000]
+	[SAVAGE]
 	[BIOME:ANY_OCEAN]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:1] territorial supposedly
 	[PREFSTRING:teeth]
 	[PREFSTRING:glowing lure]
 	[BONECARN] TODO should swallow prey whole when DF supports it
+	[EXTRAVISION] really didn't want to do this, but it seems even massive creatures are basically helpless without it
 	TODO anglers:
 	- figure out how to make them still float, but be unable to move without tentacles
 	[BODY:BODY_WITH_HEAD_FLAG:2EYES:2LUNGS:HEART:GUTS:ORGANS:BRAIN:SKULL:MOUTH:GENERIC_TEETH:ILLICIUM]

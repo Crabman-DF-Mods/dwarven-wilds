@@ -25,6 +25,7 @@ The meaning of each subcategory of change is as follows:
 - Hearthian civ sphere alignments
 - Nomaian civ sphere alignments
 - Some more owlk civ sphere alignments
+- Gave anglerfish `[EXTRAVISION]` so that they're not basically helpless despite their size now
 
 ### Changed
 - Restructured the mod to be more "modular" so you can have say, the owlks but not the nomai, if you finished the DLC before the main game for example
@@ -33,6 +34,7 @@ The meaning of each subcategory of change is as follows:
 - Edited one of the `README.md` starting paragraphs to reflect that the DF RAW LS is out of alpha now
 - Changed nomaian civ to speak dwarven language (just so they're distinct from hearthians that way)
 - Made anglerfishes teeth much bigger/proportionally accurate
+- Made anglerfish only spawn in "savage" oceans now
 
 ### Removed
 
