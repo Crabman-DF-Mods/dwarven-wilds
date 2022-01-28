@@ -36,6 +36,7 @@ The meaning of each subcategory of change is as follows:
 - Changed nomaian civ to speak dwarven language (just so they're distinct from hearthians that way)
 - Made anglerfishes teeth much bigger/proportionally accurate
 - Made anglerfish only spawn in "savage" oceans now
+- Made nomaian bones more fragile
 
 ### Removed
 
