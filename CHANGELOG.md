@@ -23,6 +23,7 @@ The meaning of each subcategory of change is as follows:
 - Info in `README.md` about all the planned content for the mod, and mentioned the owlk civ "board game" toy (was already in the mod, just not mentioned)
 - `SYMBOL` for hearthian names (all based off types of stone)
 - Hearthian civ sphere alignments
+- Nomaian civ sphere alignments
 
 ### Changed
 - Restructured the mod to be more "modular" so you can have say, the owlks but not the nomai, if you finished the DLC before the main game for example
