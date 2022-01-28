@@ -26,6 +26,7 @@ The meaning of each subcategory of change is as follows:
 - Nomaian civ sphere alignments
 - Some more owlk civ sphere alignments
 - Gave anglerfish `[EXTRAVISION]` so that they're not basically helpless despite their size now
+- Anglerfish tentacles and spiked rear fins, to be more accurate to the game!
 
 ### Changed
 - Restructured the mod to be more "modular" so you can have say, the owlks but not the nomai, if you finished the DLC before the main game for example
