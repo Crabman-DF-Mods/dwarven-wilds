@@ -36,6 +36,7 @@ The meaning of each subcategory of change is as follows:
 ### Removed
 
 ### Fixed
+- Fixed tissues for anglerfishes rod and lure; now the rod is made of skin, fat, muscle and bone, and the lure is a unique tissue
 
 ## [v0.1.1] - 2021-12-13
 ### Added
