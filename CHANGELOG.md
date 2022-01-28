@@ -37,6 +37,7 @@ The meaning of each subcategory of change is as follows:
 - Made anglerfishes teeth much bigger/proportionally accurate
 - Made anglerfish only spawn in "savage" oceans now
 - Made nomaian bones more fragile
+- Edited owlk arm, hand, finger and leg sizes; all are a big bigger/longer
 
 ### Removed
 
