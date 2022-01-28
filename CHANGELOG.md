@@ -24,6 +24,7 @@ The meaning of each subcategory of change is as follows:
 - `SYMBOL` for hearthian names (all based off types of stone)
 - Hearthian civ sphere alignments
 - Nomaian civ sphere alignments
+- Some more owlk civ sphere alignments
 
 ### Changed
 - Restructured the mod to be more "modular" so you can have say, the owlks but not the nomai, if you finished the DLC before the main game for example

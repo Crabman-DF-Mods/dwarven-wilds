@@ -190,10 +190,19 @@ entity_ow_eote
 	[SPHERE_ALIGNMENT:PLANTS:384]
 	[SPHERE_ALIGNMENT:ANIMALS:384]
     [SPHERE_ALIGNMENT:TREES:384]
-	it's tricky; they should not especially like daytime,
-	but should like lights in the midst of night; both light and darkness
+	[SPHERE_ALIGNMENT:RIVERS:384]
+	[SPHERE_ALIGNMENT:MOON:384]
+	It's tricky; they should not especially like daytime,
+	but should like lights in the midst of night; both light and darkness.
 	[SPHERE_ALIGNMENT:LIGHT:512]
     [SPHERE_ALIGNMENT:NIGHT:512]
+	will add something for dreams when that planned content actually comes
+
+	not fans of the idea of dying
+	[SPHERE_ALIGNMENT:DEATH:128]
+	[SPHERE_ALIGNMENT:MURDER:64]
+	[SPHERE_ALIGNMENT:REBIRTH:128]
+	[SPHERE_ALIGNMENT:SUICIDE:64]
 
 	[SCHOLAR:ALL]
 	[PERMITTED_JOB:MINER]
