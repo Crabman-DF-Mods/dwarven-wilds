@@ -19,12 +19,13 @@ If you want to check out my other mods, follow one of these links:
 ## Installation
 
 There are 4 folders here, each for a different portion of the mod:
+- __Universal:__ contains materials, body parts and body plans shared by multiple other modules. Installing this module by itself will do nothing at all, and __the other modules depend on this one__.
 - __Spoiler Free:__ contains the "hearthian" creatures/civ, and the "ghost matter" material (which aren't spoilers because you find out about them at the start of the game).
 - __Nomai Spoilers:__ contains the Nomai creatures/civ. Their existence/appearance is not a spoiler since they are seen at the start of the game in the hearthian museum before you even get in your spaceship, but some aspects of their culture (and therefore civ) are spoilers.
 - __Other Base Game Spoilers__ contains all the spoilery content from the base game, _except_ for the nomai creatures/civ.
 - __Echoes of the Eye Spoilers:__ contains content from the Echoes of the Eye DLC, which is all 100% spoilers. I recommend finishing the DLC before you use this module.
 
-Decide which of these modules you want, and copy-paste all the files in the corresponding folder into `/raw/objects/`. If you ever decide to change to a different, more spoilery version, just dump that folder's files in as well (you'll probably want to generate a new world when doing this though).
+Decide which of these modules you want (__note, you always need "Universal", because the other modules depend on it__), and copy-paste all the files in the corresponding folder into `/raw/objects/`. If you ever decide to change to a different, more spoilery version, just dump that folder's files in as well (you'll probably want to generate a new world when doing this though).
 
 As for knowing when to enable a given module (if you want to avoid the spoilers):
 
