@@ -38,6 +38,8 @@ __Hearthians:__ intrepid blue-skinned creatures driven by intense curiosity; the
 
 Their culture puts a heavy emphasis on community and exploration.
 
+And they know how to make marshmallows! Delicious, soft and sugary confections that can be cooked above a fire (well, not actually because DF doesn't support that yet it seems, but still). A traditional snack for hearthian travelers.
+
 __Ghost Matter:__ a deadly, transparent substance that cannot be seen easily with the naked eye; it will inflict a painful death on anybody who wanders into a cloud of it unwittingly. Beware of encountering it while mining!
 
 ### Nomai Spoilers
@@ -80,8 +82,6 @@ __Ghost Matter:__ a deadly, transparent substance that cannot be seen easily wit
 ### Spoiler Free
 
 __Sap Wine:__ this wine is brewed from sap tapped from trees and considered a delicacy by hearthians, or at least, that's what the ones who do the brewing say...
-
-__Marshmallows:__ delicious, soft and sugary confections that can be cooked above a fire. A traditional snack for hearthian travelers.
 
 ### Nomai Spoilers
 
