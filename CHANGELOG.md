@@ -29,6 +29,7 @@ The meaning of each subcategory of change is as follows:
 - Anglerfish tentacles and spiked rear fins, to be more accurate to the game!
 - Marshmallows! Created by hearthians using sugar and syrup.
 - Rappigs. Huge, 4-eyed creatures resembling pigs with the ears and tails of rabbits.
+- Dragonfish. Large (bigger than a human!) fish capable of flight, and which can breathe air. They are named for their fins, which bear a striking resemblance to the wings of a dragonfly.
 
 ### Changed
 - Restructured the mod to be more "modular" so you can have say, the owlks but not the nomai, if you finished the DLC before the main game for example

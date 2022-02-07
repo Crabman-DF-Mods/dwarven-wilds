@@ -77,6 +77,8 @@ __Ghost Matter:__ a deadly, transparent substance that cannot be seen easily wit
   Their culture emphasizes further the importance of tradition and the harmonious lives they so value. They invented a unique triangular board game, where the aim is "trapping" a specific game piece using 3 other pieces.
 
   __Rappigs:__ exotic bald, nocturnal creatures resembling _massive_ pigs with the ears and tail of a rabbit. And when I say massive, I mean quite massive, like bigger than grizzly bears.
+
+  __Dragonfish:__ large nocturnal fish capable of flight, that can breathe air. They are named for their fins, which bear a striking resemblance to the wings of a dragonfly.
   
 </details>
 
