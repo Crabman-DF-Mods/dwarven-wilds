@@ -141,6 +141,9 @@ entity_ow_eote
 	[COMMON_DOMESTIC_PULL]
 	[COMMON_DOMESTIC_MOUNT]
 	[COMMON_DOMESTIC_PET]
+	[ANIMAL] # not necessary to have this since they're already PET_EXOTIC, but still
+		[ANIMAL_TOKEN:OW_LONG_EARED]
+		[ANIMAL_ALWAYS_PET]
 	[USE_GOOD_PLANTS]
 	[USE_GOOD_WOOD]
 	[USE_ANY_PET_RACE]

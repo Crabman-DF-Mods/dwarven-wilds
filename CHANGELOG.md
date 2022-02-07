@@ -28,6 +28,7 @@ The meaning of each subcategory of change is as follows:
 - Gave anglerfish `[EXTRAVISION]` so that they're not basically helpless despite their size now
 - Anglerfish tentacles and spiked rear fins, to be more accurate to the game!
 - Marshmallows! Created by hearthians using sugar and syrup.
+- Rappigs. Huge, 4-eyed creatures resembling pigs with the ears and tails of rabbits.
 
 ### Changed
 - Restructured the mod to be more "modular" so you can have say, the owlks but not the nomai, if you finished the DLC before the main game for example
