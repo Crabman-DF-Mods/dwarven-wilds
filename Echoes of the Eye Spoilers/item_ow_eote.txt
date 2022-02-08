@@ -15,11 +15,14 @@ item_ow_eote
 ==============================================================================================
 
 
-A triangular board with 3 "Antler" pieces, and one "Eye" piece. The rules are unknown,
-all we've heard is apparently that the Antler pieces are trying to "trap" the Eye piece,
-but the Antler pieces can be removed from the board if the Eye "sees" them.
+A triangular board with 1 "Eye" piece, some "Antler" pieces, and some "Blocker" pieces.
 - https://i.imgur.com/zFEplWh.png
 - https://static.wikia.nocookie.net/outerwilds_gamepedia/images/9/91/The_Stranger%27s_inhabitants_large_portait.png
+
+The official rules are unknown, all we've heard is:
+- The Antler pieces are trying to "trap" the Eye piece
+- The Antler pieces can be removed from the board if the Eye "sees" them.
+- "As long as the eye and antler players are separate", there can be any number of players.
 [ITEM_TOY:OW_ITEM_TOY_BOARDGAME]
 [NAME:echoes board:echoes boards] made up a name for the game
 [HARD_MAT]

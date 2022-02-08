@@ -74,7 +74,9 @@ __Ghost Matter:__ a deadly, transparent substance that cannot be seen easily wit
   
   __Owlk:__ large, long-lived owl-like people with antlers and hooved feet, who dwell in wetland and forest cities, traveling primarily by river; they have a somewhat traditionalist nature, being slightly fearful, vengeful and reserved.
   
-  Their culture emphasizes further the importance of tradition and the harmonious lives they so value. They invented a unique triangular board game, where the aim is "trapping" a specific game piece using 3 other pieces.
+  Their culture emphasizes further the importance of tradition and the harmonious lives they so value.
+  
+  They invented a unique triangular board game which can be played by a varying number of players, where the aim is to "trap" a specific dark game piece using the other pieces, while avoiding been "seen" by the dark piece. However, the owlk are very secretive about the exact rules.
 
   __Rappigs:__ exotic bald, nocturnal creatures resembling _massive_ pigs with the ears and tail of a rabbit. And when I say massive, I mean quite massive, like bigger than grizzly bears.
 
