@@ -48,6 +48,7 @@ The meaning of each subcategory of change is as follows:
 
 ### Fixed
 - Fixed tissues for anglerfishes rod and lure; now the rod is made of skin, fat, muscle and bone, and the lure is a unique tissue
+- Removed `LENGTH` body appearance modifier from owlks
 
 ## [v0.1.1] - 2021-12-13
 ### Added
