@@ -20,16 +20,25 @@ entity_ow_eote
 	[CREATURE:OW_STRANGER]
 	[TRANSLATION:ELF]
 
-	[WEAPON:ITEM_WEAPON_SWORD_SHORT]
-	[WEAPON:ITEM_WEAPON_SPEAR]
-	[WEAPON:ITEM_WEAPON_MACE]
-	[WEAPON:ITEM_WEAPON_SWORD_LONG]
+	[DIGGER:ITEM_WEAPON_PICK]
+	The lack of blunt weapons is deliberate. I see it as them finding blunt
+	weapons to be disgraceful, due to the connotations of smashing antlers.
+	[WEAPON:ITEM_WEAPON_SWORD_SHORT] their version of a dagger
+	[WEAPON:ITEM_WEAPON_CROSSBOW]
+		[AMMO:ITEM_AMMO_BOLTS]
 	[WEAPON:ITEM_WEAPON_BOW]
 		[AMMO:ITEM_AMMO_ARROWS]
-	[WEAPON:ITEM_WEAPON_CROSSBOW]
-		[AMMO:ITEM_AMMO_BOLTS]	
+	Note that by age 12, even the shortest, skinniest of them (size 79,380) can wield
+	ANY of these one-handed. To the owlk, these are normal sized weapons.
+	[WEAPON:ITEM_WEAPON_PIKE]
+	[WEAPON:ITEM_WEAPON_HALBERD]
+	[WEAPON:ITEM_WEAPON_SWORD_2H]
+	[WEAPON:ITEM_WEAPON_SWORD_LONG]
+	[WEAPON:ITEM_WEAPON_AXE_GREAT] chop trees with this
+
+	unfortunately no large training weapons; I mean, I could add them but...
+	[WEAPON:ITEM_WEAPON_AXE_TRAINING]
 	[WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING]
-	[WEAPON:ITEM_WEAPON_SPEAR_TRAINING]
 
 	[ARMOR:ITEM_ARMOR_BREASTPLATE:UNCOMMON]
 	[ARMOR:ITEM_ARMOR_MAIL_SHIRT:UNCOMMON]

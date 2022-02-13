@@ -44,6 +44,7 @@ The meaning of each subcategory of change is as follows:
 - Hearthian civs can now use underground crops, like sweet pods.
 - Adjusted owlk colors; their nails and hooves now share the same color as their finger scales, and their feathers and skin now have more variety in shades of green, as well as greys.
 - Put scales on the owlks lower legs and forearms
+- The owlk civ no longer uses spears or maces, but in return now have access to pickaxes (for digging), greataxes, two-handed swords (well, _they_ only use one hand), halberds, and pikes
 
 ### Removed
 - Removed feathers from owlks forearms
