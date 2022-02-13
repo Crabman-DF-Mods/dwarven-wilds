@@ -43,8 +43,10 @@ The meaning of each subcategory of change is as follows:
 - Edited owlk arm, hand, finger and leg sizes; all are a big bigger/longer
 - Hearthian civs can now use underground crops, like sweet pods.
 - Adjusted owlk colors; their nails and hooves now share the same color as their finger scales, and their feathers and skin now have more variety in shades of green, as well as greys.
+- Put scales on the owlks lower legs and forearms
 
 ### Removed
+- Removed feathers from owlks forearms
 
 ### Fixed
 - Fixed tissues for anglerfishes rod and lure; now the rod is made of skin, fat, muscle and bone, and the lure is a unique tissue
