@@ -46,6 +46,7 @@ The meaning of each subcategory of change is as follows:
 - Put scales on the owlks lower legs and forearms
 - The owlk civ no longer uses spears or maces, but in return now have access to pickaxes (for digging), greataxes, two-handed swords (well, _they_ only use one hand), halberds, and pikes
 - Adjusted the `SYMBOL` set that owlks will use; they will now name a lot of things based on the concepts of protection, the mythic, mystery, light, and darkness
+- Adjusted the `SYMBOL` set that the nomai use; they will now name temples, libraries and their civilizations/misc stuff after the concepts of thought and truth, and also the mythic in the case of temples
 
 ### Removed
 - Removed feathers from owlks forearms
