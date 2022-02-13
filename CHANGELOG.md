@@ -45,6 +45,7 @@ The meaning of each subcategory of change is as follows:
 - Adjusted owlk colors; their nails and hooves now share the same color as their finger scales, and their feathers and skin now have more variety in shades of green, as well as greys.
 - Put scales on the owlks lower legs and forearms
 - The owlk civ no longer uses spears or maces, but in return now have access to pickaxes (for digging), greataxes, two-handed swords (well, _they_ only use one hand), halberds, and pikes
+- Adjusted the `SYMBOL` set that owlks will use; they will now name a lot of things based on the concepts of protection, the mythic, mystery, light, and darkness
 
 ### Removed
 - Removed feathers from owlks forearms
