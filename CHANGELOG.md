@@ -49,6 +49,8 @@ The meaning of each subcategory of change is as follows:
 - Adjusted the `SYMBOL` set that owlks will use; they will now name a lot of things based on the concepts of protection, the mythic, mystery, light, and darkness
 - Adjusted the `SYMBOL` set that the nomai use; they will now name temples, libraries and their civilizations/misc stuff after the concepts of thought and truth, and also the mythic in the case of temples
 - Nomai now have variations in their antler sizes/proportions, making them more unique
+- Made hearthian eggs more accurate to them being amphibians; no more hard shell, just jelly!
+- Made anglerfish eggs more accurate to them being fish; no more hard eggshell, just jelly!
 
 ### Removed
 - Removed feathers from owlks forearms
