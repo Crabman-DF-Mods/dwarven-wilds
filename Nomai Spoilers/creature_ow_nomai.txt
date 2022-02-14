@@ -16,7 +16,7 @@ creature_ow_nomai
 
 
 [CREATURE:OW_NOMAI]
-	[DESCRIPTION:A furry humanoid with three eyes, three curved horns, and digitigrade legs. Its third eye allows it to see things others cannot.]
+	[DESCRIPTION:A furry humanoid with three eyes, three curved antlers, and digitigrade legs. Its third eye allows it to see things others cannot.]
 	[NAME:nomai:nomai:nomaian]
 	[CASTE_NAME:nomai:nomai:nomaian]
 	[CREATURE_TILE:'n'][COLOR:7:0:1]
@@ -54,6 +54,8 @@ creature_ow_nomai
 	[BODY_DETAIL_PLAN:STANDARD_MATERIALS]
 		[USE_MATERIAL_TEMPLATE:HOOF:HOOF_TEMPLATE]
 		[USE_MATERIAL_TEMPLATE:HORN:HORN_TEMPLATE]
+			[STATE_NAME:ALL_SOLID:antler]
+			[STATE_ADJ:ALL_SOLID:antler]
 		the museum says they have fragile bones; I'd suspect their space travel habits are responsible
 		[SELECT_MATERIAL:BONE]
 			[SOLID_DENSITY:450] 10% less dense
@@ -68,6 +70,7 @@ creature_ow_nomai
 			[INSULATION:200]
 		[USE_TISSUE_TEMPLATE:HOOF:HOOF_TEMPLATE]
 		[USE_TISSUE_TEMPLATE:HORN:HORN_TEMPLATE]
+			[TISSUE_NAME:antler:NP]
 	[BODY_DETAIL_PLAN:VERTEBRATE_TISSUE_LAYERS:SKIN:FAT:MUSCLE:BONE:CARTILAGE]
 	no hair on face and ears
 	[TISSUE_LAYER:BY_CATEGORY:HEAD:HAIR:BACK]

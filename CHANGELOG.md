@@ -55,6 +55,8 @@ The meaning of each subcategory of change is as follows:
 ### Fixed
 - Fixed tissues for anglerfishes rod and lure; now the rod is made of skin, fat, muscle and bone, and the lure is a unique tissue
 - Removed `LENGTH` body appearance modifier from owlks
+- Nomaian antler material and tissue is now properly described as "antler" instead of "horn"
+- Typo in nomai description saying "horns" instead of "antlers" corrected
 
 ## [v0.1.1] - 2021-12-13
 ### Added
