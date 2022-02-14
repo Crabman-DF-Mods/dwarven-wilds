@@ -1,4 +1,4 @@
-b_detail_plan_ow
+b_detail_plan_ow_util
 
 [OBJECT:BODY_DETAIL_PLAN]
 
