@@ -78,6 +78,8 @@ __Ghost Matter:__ a deadly, transparent substance that cannot be seen easily wit
   
   They invented a unique triangular board game which can be played by a varying number of players, where the aim is to "trap" a specific dark game piece using the other pieces, while avoiding been "seen" by the dark piece. However, the owlk are very secretive about the exact rules.
 
+  They also play strange instrument which has only one string, and is played with a bow. There is a music box inside, with a visible, large, rotating metal cylinder that plucks on the pins of a metal comb. The instrument has an eerie, yet sweet, smooth, graceful, strained, resonant, and wavering timbre.
+
   __Rappigs:__ exotic bald, nocturnal creatures resembling _massive_ pigs with the ears and tail of a rabbit. And when I say massive, I mean quite massive, like bigger than grizzly bears.
 
   __Dragonfish:__ large nocturnal fish capable of flight, that can breathe air. They are named for their fins, which bear a striking resemblance to the wings of a dragonfly.
@@ -86,15 +88,15 @@ __Ghost Matter:__ a deadly, transparent substance that cannot be seen easily wit
 
 ## Planned Content
 
+All the planned objects/content listed in this section will unfortunately not be possible to implement faithfully until future updates for Dwarf Fortress come out to add the required features/mechanics.
+
 ### Spoiler Free
 
-__Sap Wine:__ this wine is brewed from sap tapped from trees and considered a delicacy by hearthians, or at least, that's what the ones who do the brewing say...
+__Sap Wine:__ this wine is brewed from sap tapped from trees and considered a delicacy by hearthians, or at least, that's what the ones who do the brewing say... This can't be implemented until tree tapping or something like it is supported, though honestly I might not even need to implement it myself when the time comes, since dwarves would surely do something alchoholic with tree sap.
 
 ### Nomai Spoilers
 
-The new objects/content here will unfortunately not be possible to implement faithfully until future updates for Dwarf Fortress come out to add the required features/mechanics.
-
-Be warned that there are more spoilers here than just their culture, so it's definitely a lot more spoilery than the current "Nomai Spoilers" content.
+Be warned that there are more spoilers here than just the nomaian culture (mostly regarding their technology), so it's definitely a lot more spoilery than the current "Nomai Spoilers" content.
 
 <details>
   <summary>Spoiler warning</summary>
@@ -119,8 +121,6 @@ Be warned that there are more spoilers here than just their culture, so it's def
 
 ### Other Base Game Spoilers
 
-This content will also be impossible to implement faithfully until later updates come.
-
 <details>
   <summary>Spoiler warning</summary>
   
@@ -130,12 +130,8 @@ This content will also be impossible to implement faithfully until later updates
 
 ### Echoes of the Eye Spoilers
 
-Most content here, once again, will be impossible to implement until later, but unlike the above, _some_ of it will be doable before then.
-
 <details>
   <summary>Spoiler warning</summary>
-  
-  __Owlk Instruments:__ the owlks have a weird cultural instrument I want to add for their entity/civ as a hardcoded instrument (alongside generated ones). This won't require future DF updates unlike the other planned content; however, I have no idea how it works or what its parts are because I don't know anything about instruments, so it may be some time before I figure it out and implement it.
 
   __Owlk Magic:__ with the Myth & Magic update, owlks will be given access to a lot of magic:
   

@@ -26,3 +26,91 @@ The official rules are unknown, all we've heard is:
 [ITEM_TOY:OW_ITEM_TOY_BOARDGAME]
 [NAME:echoes board:echoes boards] made up a name for the game
 [HARD_MAT]
+
+[ITEM_TOOL:OW_EOTE_INSTRUMENT_BODY]
+[NO_DEFAULT_JOB][INCOMPLETE_ITEM][UNIMPROVABLE]
+[NAME:chordochestrion body:chordochestrion body]
+[VALUE:30]
+[WOOD_MAT]
+[TILE:155]
+[SIZE:55000]
+[MATERIAL_SIZE:3]
+[DESCRIPTION:The chordochestrion body makes up the bulk of the instrument.]
+
+[ITEM_TOOL:OW_EOTE_INSTRUMENT_CYLINDER]
+[NO_DEFAULT_JOB][INCOMPLETE_ITEM][UNIMPROVABLE]
+[NAME:chordochestrion cylinder:chordochestrion cylinders]
+[VALUE:40]
+[METAL_MAT]
+[TILE:155]
+[SIZE:600][MATERIAL_SIZE:3]
+[DESCRIPTION:The chordochestrion cylinder is a metal cylinder with pegs on its surface. It is placed inside the instrument body, and rotates so that the pegs pluck the teeth of the instruments comb.]
+
+[ITEM_TOOL:OW_EOTE_INSTRUMENT_COMB]
+[NO_DEFAULT_JOB][INCOMPLETE_ITEM][UNIMPROVABLE]
+[NAME:chordochestrion comb:chordochestrion combs]
+[VALUE:15]
+[METAL_MAT]
+[TILE:155]
+[SIZE:180][MATERIAL_SIZE:1]
+[DESCRIPTION:The chordochestrion comb is a set of metal "teeth" attached to the instruments neck above the cylinder, which vibrate when the pegs of the rotating cylinder pluck on them.]
+
+[ITEM_TOOL:OW_EOTE_INSTRUMENT_STRING]
+[NO_DEFAULT_JOB][INCOMPLETE_ITEM][UNIMPROVABLE]
+[NAME:chordochestrion string:chordochestrion strings]
+[VALUE:10]
+[METAL_MAT]
+[TILE:155]
+[SIZE:100]
+[MATERIAL_SIZE:1]
+[DESCRIPTION:The chordochestrion string, stretched from the tailpiece at the bottom of the body, to the top of the neck, vibrates to produce sound.]
+
+[ITEM_TOOL:OW_EOTE_INSTRUMENT_BOW_STICK]
+[NO_DEFAULT_JOB][INCOMPLETE_ITEM][UNIMPROVABLE]
+[NAME:chordochestrion bow-stick:chordochestrion bow-sticks]
+[VALUE:10]
+[WOOD_MAT]
+[TILE:155]
+[SIZE:600][MATERIAL_SIZE:1]
+[DESCRIPTION:The chordochestrion bow-stick forms the majority of the bow.]
+
+[ITEM_TOOL:OW_EOTE_INSTRUMENT_BOW_STRING]
+[NO_DEFAULT_JOB][INCOMPLETE_ITEM][UNIMPROVABLE]
+[NAME:chordochestrion bowstring:chordochestrion bowstrings]
+[VALUE:10]
+[METAL_MAT]
+[TILE:155]
+[SIZE:50][MATERIAL_SIZE:1]
+[DESCRIPTION:The chordochestrion bowstring is attached to each end of the bow-stick to produce the complete bow.]
+
+[ITEM_TOOL:OW_EOTE_INSTRUMENT_BOW]
+[NO_DEFAULT_JOB][INCOMPLETE_ITEM][UNIMPROVABLE]
+[NAME:chordochestrion bow:chordochestrion bows]
+[VALUE:25]
+[WOOD_MAT] had to pick one or the other, and most of it is wood
+[TILE:155]
+[SIZE:650][MATERIAL_SIZE:1]
+[DESCRIPTION:The chordochestrion bow is drawn across the string of the instrument.]
+
+[ITEM_INSTRUMENT:OW_EOTE_INSTRUMENT]
+[NAME:chordochestrion:chordochestrion]
+[DESCRIPTION:The chordochestrion is a large string instrument made primarily of wood, with a single metallic string, and a built-in music box. The musician plays the singular string with a metal-stringed wooden bow. The instrument has a half octave range going from a mid-high to a high pitch. Tuning is accomplished by twisting a wooden knob on the top of the neck in order to adjust the tension of the string. The instrument has an eerie, yet sweet, smooth, graceful, strained, resonant, and wavering timbre.]
+[VALUE:250]
+[SIZE:56530]
+[DOMINANT_MATERIAL_PIECE:BODY]
+[INSTRUMENT_PIECE:BODY:OW_EOTE_INSTRUMENT_BODY:body:bodies:ALWAYS_SINGULAR]
+[INSTRUMENT_PIECE:CYLINDER:OW_EOTE_INSTRUMENT_CYLINDER:cylinder:cylinder:ALWAYS_SINGULAR]
+[INSTRUMENT_PIECE:COMB:OW_EOTE_INSTRUMENT_COMB:comb:combs:ALWAYS_SINGULAR]
+[INSTRUMENT_PIECE:STRING:OW_EOTE_INSTRUMENT_STRING:string:strings:ALWAYS_SINGULAR]
+[INSTRUMENT_PIECE:BOW:OW_EOTE_INSTRUMENT_BOW:bow:bows:STANDARD]
+[VOLUME_mB:0:10000] TODO check accuracy of this
+[SOUND_PRODUCTION:BOWED:BOW:STRING] TODO add something appropriate for the music box
+[PITCH_CHOICE:HARMONIC_SERIES:STRING]
+[TUNING:TIGHTENING:STRING]
+Thanks to _nebula on the Outer Wilds Discord for the below pitch ranges and timbres!
+Musically illiterate me couldn't have done it without you!
+- Pitch range D5-C6: https://cdn.discordapp.com/attachments/589410168144527376/897919013009641542/Outer_Wilds_Party_House_v8_050321_3_AP_traveler.wav
+- Pitch range G4-D6: https://cdn.discordapp.com/attachments/589410168144527376/893929698969681970/OW_TravelerTheme_newtraveler_061021_AP.wav
+[PITCH_RANGE:800:1400] G4-D6 is the wider range
+[TIMBRE:SMOOTH:GRACEFUL:STRAINED:EERIE:RESONANT:WAVERING:SWEET]
+[MUSIC_SKILL:PLAY_STRINGED_INSTRUMENT]
