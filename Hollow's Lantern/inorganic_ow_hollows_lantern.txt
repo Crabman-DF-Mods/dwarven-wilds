@@ -1,4 +1,4 @@
-inorganic_ow_other
+inorganic_ow_hollows_lantern
 
 [OBJECT:INORGANIC]
 
@@ -33,7 +33,7 @@ Ash Twin.
 	[TILE:156]
 	[MATERIAL_VALUE:60]
 	The temperature resistance is the reason this ore is a spoiler despite being discoverable in
-	the Zero-G cave.
+	the Zero-G cave. You only discover its "supernova-proof" properties in Hollow's Lantern.
 	[SPEC_HEAT:50000]
 	[MELTING_POINT:50000]
 	[BOILING_POINT:55000]

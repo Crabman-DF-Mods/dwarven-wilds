@@ -58,7 +58,7 @@ The meaning of each subcategory of change is as follows:
 - Typo in nomai description saying "horns" instead of "antlers" corrected
 </details>
 
-### Other Base Game - 2 Added, 3 Changed, 1 Fixed
+### Dark Bramble - 2 Added, 3 Changed, 1 Fixed
 
 <details>
   <summary>Spoiler warning</summary>
@@ -112,13 +112,21 @@ The meaning of each subcategory of change is as follows:
 #### Changed
 - Made `LICENSE` file more readable
 
-### Other Base Game - 2 Fixed
+### Giant's Deep - 1 Fixed
 
 <details>
   <summary>Spoiler warning</summary>
 
 #### Fixed
 - Removed `MUSCULAR_ONLY` from jellyfishes electricic shock "unconsciousness" symptom
+</details>
+
+### Dark Bramble - 1 Fixed
+
+<details>
+  <summary>Spoiler warning</summary>
+
+#### Fixed
 - Fixed anglerfish `CREATURE_TILE`
 </details>
 
@@ -140,13 +148,25 @@ The initial public release. It contains the following:
 ### Nomai
 - Nomai creature and civ
 
-### Other Base Game
+### Hollow's Lantern
+<details>
+  <summary>Spoiler warning</summary>
+
+- Star platinum metal and ore
+</details>
+
+### Giant's Deep
 <details>
   <summary>Spoiler warning</summary>
 
 - Giants Deep Jellyfish
+</details>
+
+### Dark Bramble
+<details>
+  <summary>Spoiler warning</summary>
+
 - Bramble Anglerfish
-- Star platinum metal and ore
 </details>
 
 ### Echoes of the Eye

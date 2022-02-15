@@ -18,12 +18,14 @@ If you want to check out my other mods, follow one of these links:
 
 ## Installation
 
-There are 4 folders here, each for a different portion of the mod:
+There are 7 folders here, each for a different portion of the mod:
 - __Utility:__ contains materials, body parts and body plans shared by multiple other modules. Installing this module by itself will do nothing at all, and __the other modules depend on this one__.
 - __Spoiler Free:__ contains the "hearthian" creatures/civ, and the "ghost matter" material (which aren't spoilers because you find out about them at the start of the game).
-- __Nomai Spoilers:__ contains the Nomai creatures/civ. Their existence/appearance is not a spoiler since they are seen at the start of the game in the hearthian museum before you even get in your spaceship, but some aspects of their culture (and therefore civ) are spoilers.
-- __Other Base Game Spoilers__ contains all the spoilery content from the base game, _except_ for the nomai creatures/civ.
-- __Echoes of the Eye Spoilers:__ contains content from the Echoes of the Eye DLC, which is all 100% spoilers. I recommend finishing the DLC before you use this module.
+- __Nomai:__ contains the Nomai creatures/civ. Their existence/appearance is not a spoiler since they are seen at the start of the game in the hearthian museum before you even get in your spaceship, but some aspects of their culture (and therefore civ) are spoilers.
+- __Hollow's Lantern:__ contains content from "Hollow's Lantern", the moon of the planet "Brittle Hollow".
+- __Giant's Deep:__ contains content from the planet "Giant's Deep".
+- __Dark Bramble:__ contains content from the planet "Dark Bramble".
+- __Echoes of the Eye:__ contains content from the Echoes of the Eye DLC, which is all 100% spoilers. I recommend finishing the DLC before you use this module.
 
 Decide which of these modules you want (__note, you always need "Utility", because the other modules depend on it__), and copy-paste all the files in the corresponding folder into `/raw/objects/`. If you ever decide to change to a different, more spoilery version, just dump that folder's files in as well (you'll probably want to generate a new world when doing this though).
 
@@ -43,7 +45,7 @@ And they know how to make marshmallows! Delicious, soft and sugary confections t
 
 __Ghost Matter:__ a deadly, transparent substance that cannot be seen easily with the naked eye; it will inflict a painful death on anybody who wanders into a cloud of it unwittingly. Beware of encountering it while mining!
 
-### Nomai Spoilers
+### Nomai
 
 <details>
   <summary>Spoiler warning</summary>
@@ -54,20 +56,34 @@ __Ghost Matter:__ a deadly, transparent substance that cannot be seen easily wit
   
 </details>
 
-### Other Base Game Spoilers
+### Hollow's Lantern
 
 <details>
   <summary>Spoiler warning</summary>
 
   __Star Platinum:__ strange ore that looks like rock embedded with glowing stars; in the dark it resembles the night sky. It can temporarily withstand the hottest flame in existence, dragonfire!
+  
+</details>
+
+### Giant's Deep
+
+<details>
+  <summary>Spoiler warning</summary>
 
   __Giants Deep Jellyfish:__ gigantic orange jellyfish with electrified bodies and tentacles. They will assuredly make you sick if you try eating them, even if their electricity is removed.
+  
+</details>
+
+### Dark Bramble
+
+<details>
+  <summary>Spoiler warning</summary>
 
   __Bramble Anglerfish:__ flying, blind fish that can survive without any oxygen, and which are big enough to swallow a small whale in principle (due to limitations in DF's engine though, they sadly can't do this, yet).
   
 </details>
 
-### Echoes of the Eye Spoilers
+### Echoes of the Eye
 
 <details>
   <summary>Spoiler warning</summary>
@@ -94,7 +110,7 @@ All the planned objects/content listed in this section will unfortunately not be
 
 __Sap Wine:__ this wine is brewed from sap tapped from trees and considered a delicacy by hearthians, or at least, that's what the ones who do the brewing say... This can't be implemented until tree tapping or something like it is supported, though honestly I might not even need to implement it myself when the time comes, since dwarves would surely do something alchoholic with tree sap.
 
-### Nomai Spoilers
+### Nomai
 
 Be warned that there are more spoilers here than just the nomaian culture (mostly regarding their technology), so it's definitely a lot more spoilery than the current "Nomai Spoilers" content.
 
@@ -119,7 +135,7 @@ Be warned that there are more spoilers here than just the nomaian culture (mostl
   
 </details>
 
-### Other Base Game Spoilers
+### Dark Bramble
 
 <details>
   <summary>Spoiler warning</summary>
@@ -128,7 +144,7 @@ Be warned that there are more spoilers here than just the nomaian culture (mostl
   
 </details>
 
-### Echoes of the Eye Spoilers
+### Echoes of the Eye
 
 <details>
   <summary>Spoiler warning</summary>

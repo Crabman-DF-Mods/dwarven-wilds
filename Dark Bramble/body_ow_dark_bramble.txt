@@ -1,4 +1,4 @@
-body_ow_other
+body_ow_dark_bramble
 
 [OBJECT:BODY]
 
