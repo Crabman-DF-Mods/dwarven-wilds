@@ -57,11 +57,10 @@ __Ghost Matter:__ a deadly, transparent substance that cannot be seen easily wit
 
 <details>
   <summary>Spoiler warning</summary>
-  
-  __Nomai:__ 3 eyed, goatlike people who are natural scientists with great interest in understanding the world.
-  
-  Their culture harbors a deep respect for nature, and reinforces their natural interest in learning.
-  
+
+__Nomai:__ 3 eyed, goatlike people who are natural scientists with great interest in understanding the world.
+
+Their culture harbors a deep respect for nature, and reinforces their natural interest in learning.
 </details>
 
 ### Hollow's Lantern
@@ -69,8 +68,7 @@ __Ghost Matter:__ a deadly, transparent substance that cannot be seen easily wit
 <details>
   <summary>Spoiler warning</summary>
 
-  __Star Platinum:__ strange ore that looks like rock embedded with glowing stars; in the dark it resembles the night sky. It can temporarily withstand the hottest flame in existence, dragonfire!
-  
+__Star Platinum:__ strange ore that looks like rock embedded with glowing stars; in the dark it resembles the night sky. It can temporarily withstand the hottest flame in existence, dragonfire!
 </details>
 
 ### Giant's Deep
@@ -78,8 +76,7 @@ __Ghost Matter:__ a deadly, transparent substance that cannot be seen easily wit
 <details>
   <summary>Spoiler warning</summary>
 
-  __Giants Deep Jellyfish:__ gigantic orange jellyfish with electrified bodies and tentacles. They will assuredly make you sick if you try eating them, even if their electricity is removed.
-  
+__Giants Deep Jellyfish:__ gigantic orange jellyfish with electrified bodies and tentacles. They will assuredly make you sick if you try eating them, even if their electricity is removed.
 </details>
 
 ### Dark Bramble
@@ -87,27 +84,25 @@ __Ghost Matter:__ a deadly, transparent substance that cannot be seen easily wit
 <details>
   <summary>Spoiler warning</summary>
 
-  __Bramble Anglerfish:__ flying, blind fish that can survive without any oxygen, and which are big enough to swallow a small whale in principle (due to limitations in DF's engine though, they sadly can't do this, yet).
-  
+__Bramble Anglerfish:__ flying, blind fish that can survive without any oxygen, and which are big enough to swallow a small whale in principle (due to limitations in DF's engine though, they sadly can't do this, yet).
 </details>
 
 ### Echoes of the Eye
 
 <details>
   <summary>Spoiler warning</summary>
-  
-  __Owlk:__ large, long-lived owl-like people with antlers and hooved feet, who dwell in wetland and forest cities, traveling primarily by river; they have a somewhat traditionalist nature, being slightly fearful, vengeful and reserved.
-  
-  Their culture emphasizes further the importance of tradition and the harmonious lives they so value.
-  
-  They invented a unique triangular board game which can be played by a varying number of players, where the aim is to "trap" a specific dark game piece using the other pieces, while avoiding been "seen" by the dark piece. However, the owlk are very secretive about the exact rules.
 
-  They also play strange instrument which has only one string, and is played with a bow. There is a music box inside, with a visible, large, rotating metal cylinder that plucks on the pins of a metal comb. The instrument has an eerie, yet sweet, smooth, graceful, strained, resonant, and wavering timbre.
+__Owlk:__ large, long-lived owl-like people with antlers and hooved feet, who dwell in wetland and forest cities, traveling primarily by river; they have a somewhat traditionalist nature, being slightly fearful, vengeful and reserved.
 
-  __Rappigs:__ exotic bald, nocturnal creatures resembling _massive_ pigs with the ears and tail of a rabbit. And when I say massive, I mean quite massive, like bigger than grizzly bears.
+Their culture emphasizes further the importance of tradition and the harmonious lives they so value.
 
-  __Dragonfish:__ large nocturnal fish capable of flight, that can breathe air. They are named for their fins, which bear a striking resemblance to the wings of a dragonfly.
-  
+They invented a unique triangular board game which can be played by a varying number of players, where the aim is to "trap" a specific dark game piece using the other pieces, while avoiding been "seen" by the dark piece. However, the owlk are very secretive about the exact rules.
+
+They also play strange instrument which has only one string, and is played with a bow. There is a music box inside, with a visible, large, rotating metal cylinder that plucks on the pins of a metal comb. The instrument has an eerie, yet sweet, smooth, graceful, strained, resonant, and wavering timbre.
+
+__Rappigs:__ exotic bald, nocturnal creatures resembling _massive_ pigs with the ears and tail of a rabbit. And when I say massive, I mean quite massive, like bigger than grizzly bears.
+
+__Dragonfish:__ large nocturnal fish capable of flight, that can breathe air. They are named for their fins, which bear a striking resemblance to the wings of a dragonfly.
 </details>
 
 ## Planned Content
@@ -120,38 +115,36 @@ __Sap Wine:__ this wine is brewed from sap tapped from trees and considered a de
 
 ### Nomai
 
-Be warned that there are more spoilers here than just the nomaian culture (mostly regarding their technology), so it's definitely a lot more spoilery than the current "Nomai Spoilers" content.
+Be warned that there are more spoilers here than just the nomaian culture (mostly regarding their technology), so it's definitely a lot more spoilery than the current "Nomai" module content.
 
 <details>
   <summary>Spoiler warning</summary>
 
-  __Nomaian Magic:__ when Myth & Magic comes, nomai will be given the ability to see special things with their third eye (not sure what exactly yet, but something normal beings can't), and to have magic (artifact based, not innate) that can do the following:
-  
-  - Use telekinesis in their technology (in reference to their self-repairing rock signs and weird marble doors).
+__Nomaian Magic:__ when Myth & Magic comes, nomai will be given the ability to see special things with their third eye (not sure what exactly yet, but something normal beings can't), and to have magic (artifact based, not innate) that can do the following:
 
-  - Teleport/make portals (in reference to their black/white hole warp drives).
+- Use telekinesis in their technology (in reference to their self-repairing rock signs and weird marble doors).
 
-  - Manipulate gravity, making floors with a fixed gravity direction (hopefully enabling nice weird architecture), and special gravity crystals that can be used to change the gravity of surfaces.
+- Teleport/make portals (in reference to their black/white hole warp drives).
 
-  - Magical projection stones that can project/send messages to distant, set locations with the required "projection stone" infrastructure.
+- Manipulate gravity, making floors with a fixed gravity direction (hopefully enabling nice weird architecture), and special gravity crystals that can be used to change the gravity of surfaces.
 
-  - Other projection stones that allow one to remotely view/astrally project to the correctly set locations, so you can see it as if you were truly there. (even walk around in a certain range)
+- Magical projection stones that can project/send messages to distant, set locations with the required "projection stone" infrastructure.
 
-  - Memory statues/masks; basically, a way to transmit/store memories of a specific individual inside statues (and/or masks attached to said statues).
+- Other projection stones that allow one to remotely view/astrally project to the correctly set locations, so you can see it as if you were truly there. (even walk around in a certain range)
 
-  - They will have a cultural interest in learning all the magic they possibly can (that is procedurally generated in that world). Their special eye will most likely help in this regard most of the time.
+- Memory statues/masks; basically, a way to transmit/store memories of a specific individual inside statues (and/or masks attached to said statues).
 
-  __Nomaian Staves:__ an item created by the nomai, with a built in ability to create writing, and to levitate objects/control things telekinetically. Obviously will need nomaian magic to be implemented. It will also be able to play music, and this feature will have to wait until Toady's plans to merge items into one object type are implemented.
-  
+- They will have a cultural interest in learning all the magic they possibly can (that is procedurally generated in that world). Their special eye will most likely help in this regard most of the time.
+
+__Nomaian Staves:__ an item created by the nomai, with a built in ability to create writing, and to levitate objects/control things telekinetically. Obviously will need nomaian magic to be implemented. It will also be able to play music, and this feature will have to wait until Toady's plans to merge items into one object type are implemented.
 </details>
 
 ### Dark Bramble
 
 <details>
   <summary>Spoiler warning</summary>
-  
-  __Dark Brambles:__ these plants will require the ability for "evil" plants to spread and overtake areas entirely (maybe even whole dimensions/planes!), as well as for the seeds and main cores to have space-warping abilities like portals and "pocket dimensions" and being bigger on the inside and such. In other words, at least the Myth & Magic update (I would settle for it at least taking over entire regions and threatening the integrity of the land or world, even if the space-warping doesn't happen).
-  
+
+__Dark Brambles:__ these plants will require the ability for "evil" plants to spread and overtake areas entirely (maybe even whole dimensions/planes!), as well as for the seeds and main cores to have space-warping abilities like portals and "pocket dimensions" and being bigger on the inside and such. In other words, at least the Myth & Magic update (I would settle for it at least taking over entire regions and threatening the integrity of the land or world, even if the space-warping doesn't happen).
 </details>
 
 ### Echoes of the Eye
@@ -159,24 +152,23 @@ Be warned that there are more spoilers here than just the nomaian culture (mostl
 <details>
   <summary>Spoiler warning</summary>
 
-  __Owlk Magic:__ with the Myth & Magic update, owlks will be given access to a lot of magic:
-  
-  - Magic based on green flames and dreams/sleep, which will enable them to enter a shared "dream world" and keep their souls in green flames. They can reside in the dream world even after their physical body dies, so long as their flame is still lit.
-  
-  - Permanently "cloak" objects/areas, which makes them invisible/dark, silent (trapping all sounds inside the cloak), and can be used to hide other magical signals from escaping the cloak. To be clear, it's possible to uncloak the places, but by "permanent" I just mean it doesn't wear off or require active sustaining. They will tend to often hide their sites using this. This would definitely _not_ be something nomai can see through with their third eye. 
+__Owlk Magic:__ with the Myth & Magic update, owlks will be given access to a lot of magic:
 
-  - Produce illusions. Basically in reference to how the inside of the Stranger doesn't actually have a window, it has a "screen".
-  
-  - Make objects/mechanisms that are triggered or controlled by light. Ideally this wouldn't be actual magic, but such a construction will probably have to be implemented in DF using magic.
+- Magic based on green flames and dreams/sleep, which will enable them to enter a shared "dream world" and keep their souls in green flames. They can reside in the dream world even after their physical body dies, so long as their flame is still lit.
 
-  - Make objects/mechanisms that are triggered or controlled by specific lights/candles being turned on, and these may have effects between the real world and their dream world (so a candle in their dream world may be able to control real mechanisms).
+- Permanently "cloak" objects/areas, which makes them invisible/dark, silent (trapping all sounds inside the cloak), and can be used to hide other magical signals from escaping the cloak. To be clear, it's possible to uncloak the places, but by "permanent" I just mean it doesn't wear off or require active sustaining. They will tend to often hide their sites using this. This would definitely _not_ be something nomai can see through with their third eye. 
 
-  - "Lanterns/artifacts", which they will carry around as a matter of culture to so they can use mechanisms controlled by light. Also will tie in to the dream/flame magic, and have a variant that can narrow down/project light more narrowly.
+- Produce illusions. Basically in reference to how the inside of the Stranger doesn't actually have a window, it has a "screen".
 
-  - Vision torches, allowing them to share memories or thoughts with one another, even in cases of a language or species barrier (not relevant now except for kobolds, but Toady likes languages and has said he wants to eventually make the game auto-generate them). They can plant the ideas inside the torch as well, so they won't need to actively be holding the torch to share the visions.
+- Make objects/mechanisms that are triggered or controlled by light. Ideally this wouldn't be actual magic, but such a construction will probably have to be implemented in DF using magic.
 
-  - Placing memories and thoughts/ideas from vision torches into other objects (reels), which can be played/shown to a larger audience.
-  
+- Make objects/mechanisms that are triggered or controlled by specific lights/candles being turned on, and these may have effects between the real world and their dream world (so a candle in their dream world may be able to control real mechanisms).
+
+- "Lanterns/artifacts", which they will carry around as a matter of culture to so they can use mechanisms controlled by light. Also will tie in to the dream/flame magic, and have a variant that can narrow down/project light more narrowly.
+
+- Vision torches, allowing them to share memories or thoughts with one another, even in cases of a language or species barrier (not relevant now except for kobolds, but Toady likes languages and has said he wants to eventually make the game auto-generate them). They can plant the ideas inside the torch as well, so they won't need to actively be holding the torch to share the visions.
+
+- Placing memories and thoughts/ideas from vision torches into other objects (reels), which can be played/shown to a larger audience.
 </details>
 
 ## License
