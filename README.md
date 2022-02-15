@@ -129,6 +129,8 @@ Be warned that there are more spoilers here than just the nomaian culture (mostl
 
   - Other projection stones that allow one to remotely view/astrally project to the correctly set locations, so you can see it as if you were truly there. (even walk around in a certain range)
 
+  - Memory statues/masks; basically, a way to transmit/store memories of a specific individual inside statues (and/or masks attached to said statues).
+
   - They will have a cultural interest in learning all the magic they possibly can (that is procedurally generated in that world). Their special eye will most likely help in this regard most of the time.
 
   __Nomaian Staves:__ an item created by the nomai, with a built in ability to create writing, and to levitate objects/control things telekinetically. Obviously will need nomaian magic to be implemented. It will also be able to play music, and this feature will have to wait until Toady's plans to merge items into one object type are implemented.
@@ -140,7 +142,7 @@ Be warned that there are more spoilers here than just the nomaian culture (mostl
 <details>
   <summary>Spoiler warning</summary>
   
-  __Dark Brambles:__ these plants will require the ability for "evil" plants to spread and overtake areas entirely, as well as for the seeds to have space-warping abilities like portals and "pocket dimensions" and being bigger on the inside and such. In other words, at least the Myth & Magic update (I would settle for it at least taking over entire regions and threatening the integrity of the land or world, even if the space-warping doesn't happen).
+  __Dark Brambles:__ these plants will require the ability for "evil" plants to spread and overtake areas entirely (maybe even whole dimensions/planes!), as well as for the seeds and main cores to have space-warping abilities like portals and "pocket dimensions" and being bigger on the inside and such. In other words, at least the Myth & Magic update (I would settle for it at least taking over entire regions and threatening the integrity of the land or world, even if the space-warping doesn't happen).
   
 </details>
 
@@ -153,11 +155,15 @@ Be warned that there are more spoilers here than just the nomaian culture (mostl
   
   - Magic based on green flames and dreams/sleep, which will enable them to enter a shared "dream world" and keep their souls in green flames. They can reside in the dream world even after their physical body dies, so long as their flame is still lit.
   
-  - Permanently "cloak" objects/areas, which makes them invisible/dark, silent (trapping all sounds inside the cloak), and can be used to hide other magical signals from escaping the cloak. To be clear, it's possible to uncloak the places, but by "permanent" I just mean it doesn't wear off or require active sustaining. This would definitely _not_ be something nomai can see through with their third eye. 
+  - Permanently "cloak" objects/areas, which makes them invisible/dark, silent (trapping all sounds inside the cloak), and can be used to hide other magical signals from escaping the cloak. To be clear, it's possible to uncloak the places, but by "permanent" I just mean it doesn't wear off or require active sustaining. They will tend to often hide their sites using this. This would definitely _not_ be something nomai can see through with their third eye. 
+
+  - Produce illusions. Basically in reference to how the inside of the Stranger doesn't actually have a window, it has a "screen".
   
   - Make objects/mechanisms that are triggered or controlled by light. Ideally this wouldn't be actual magic, but such a construction will probably have to be implemented in DF using magic.
 
-  - "Lanterns", which they will carry around as a matter of culture to so they can use mechanisms controlled by light. Also will tie in to the dream/flame magic, and have a variant that can narrow down/project light more narrowly.
+  - Make objects/mechanisms that are triggered or controlled by specific lights/candles being turned on, and these may have effects between the real world and their dream world (so a candle in their dream world may be able to control real mechanisms).
+
+  - "Lanterns/artifacts", which they will carry around as a matter of culture to so they can use mechanisms controlled by light. Also will tie in to the dream/flame magic, and have a variant that can narrow down/project light more narrowly.
 
   - Vision torches, allowing them to share memories or thoughts with one another, even in cases of a language or species barrier (not relevant now except for kobolds, but Toady likes languages and has said he wants to eventually make the game auto-generate them). They can plant the ideas inside the torch as well, so they won't need to actively be holding the torch to share the visions.
 
