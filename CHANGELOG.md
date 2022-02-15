@@ -16,6 +16,8 @@ The meaning of each subcategory of change is as follows:
 
 ## [Unreleased]
 
+## [v1.0.0] - 2022-02-15
+
 ### Misc - 3 Added, 4 Changed
 
 #### Added
@@ -179,6 +181,7 @@ The initial public release. It contains the following:
 </details>
 
 <!--Links-->
-[Unreleased]: https://github.com/Crabman-DF-Mods/dwarven-wilds/compare/v0.1.1...HEAD
+[Unreleased]: https://github.com/Crabman-DF-Mods/dwarven-wilds/compare/v1.0.0...HEAD
+[v1.0.0]: https://github.com/Crabman-DF-Mods/dwarven-wilds/compare/v0.1.1...v1.0.0
 [v0.1.1]: https://github.com/Crabman-DF-Mods/dwarven-wilds/compare/v0.1.0...v0.1.1
 [v0.1.0]: https://github.com/Crabman-DF-Mods/dwarven-wilds/releases/tag/v0.1.0
