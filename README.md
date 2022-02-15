@@ -39,7 +39,7 @@ If you want to know which modules you can install without spoilers:
 - __Hollow's Lantern:__ explore Hollow's Lantern (the moon floating around Brittle Hollow), you'll find information there about something you likely already saw on Timber Hearth (the starting planet), and this information is a spoiler.
 - __Giant's Deep:__ this one is really simple, just visit Giant's Deep, and go anywhere underwater, then look down. You'll see all this module has to offer below you.
 - __Dark Bramble:__ you should thoughrougly explore the Dark Bramble and Ember Twin planets before enabling this module. A good long comb through both should reveal everything (and all information about) the things you'll find in this module.
-- __Echoes of the Eye:__ I recommend getting to a specific point in the DLC before enabling this module. Everything related to the DLC will be in the bottom-right area of the rumor map/shiplog, with blue colored "rumor boxes", so you'll know you've gotten far enough when you have found several of the blue rumor boxes (at least 12), and opened a thing that has no less than 3 very prominent locks, with fancy symbols on each lock.
+- __Echoes of the Eye:__ I recommend completing the DLC before enabling this module. Everything related to the DLC will be in the bottom-right area of the rumor map/shiplog, with blue colored "rumor boxes", but unfortunately there is no way to be specific about how you'll know you've completed it without it being some kind of spoiler. To say it vaguely, you will have found _at least_ 12 DLC shiplog/rumor boxes, and you will have solved some sort of thing you've been working towards in the DLC, and it won't involve the game credits rolling (only the base game ending and joke endings have credits).
 
 ## Content
 

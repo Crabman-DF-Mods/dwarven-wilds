@@ -16,6 +16,11 @@ The meaning of each subcategory of change is as follows:
 
 ## [Unreleased]
 
+### Misc
+
+#### Fixed
+- Changed readme Echoes of the Eye module "when should I install this module" guidance; it was too spoilery
+
 ## [v1.0.0] - 2022-02-15
 
 ### Misc - 3 Added, 4 Changed
