@@ -16,11 +16,12 @@ The meaning of each subcategory of change is as follows:
 
 ## [Unreleased]
 
-### Misc - 2 Added, 4 Changed
+### Misc - 3 Added, 4 Changed
 
 #### Added
 - `CHANGELOG.md` file
 - Info in `README.md` about all the planned content for the mod
+- Instructions about when it's safe spoiler-wise to install each module of the mod
 
 #### Changed
 - Restructured the mod to be more "modular" so you can have say, the EOTE content but not the nomai, if you finished the DLC before the main game for example
@@ -31,13 +32,13 @@ The meaning of each subcategory of change is as follows:
 ### Spoiler Free - 3 Added, 2 Changed
 
 #### Added
+- Hearthian civ sphere alignments; this means now they'll pay more for trade goods relating to the spheres of music, travelers, water, stars, wisdom, and courage, but less for things relating to treachery and war. This also supposedly makes them more often worship forces related to those things they like, and less often for the disliked things
 - `SYMBOL` for hearthian names (all based off types of stone)
-- Hearthian civ sphere alignments
-- Marshmallows! Created by hearthians using sugar and syrup.
+- Marshmallows! Created by hearthians using sugar and syrup
 
 #### Changed
-- Hearthian civs can now use underground crops, like sweet pods.
-- Made hearthian eggs more accurate to them being amphibians; no more hard shell, just jelly!
+- Hearthian civs can now use underground crops, like sweet pods
+- Made hearthian eggs more accurate to them being amphibians; no more hard shell, just jelly and yolk!
 
 ### Nomai - 1 Added, 4 Changed, 2 Fixed
 
@@ -45,13 +46,13 @@ The meaning of each subcategory of change is as follows:
   <summary>Spoiler warning</summary>
 
 #### Added
-- Nomaian civ sphere alignments
+- Nomaian civ sphere alignments; this works the same as for hearthians (pay more or less depending on the alignments), but in their case, they have a preference for spheres of wisdom, truth, scholarship, festivals, reverly, travelers, and the stars, whereas they dislike lies
 
 #### Changed
-- Changed nomaian civ to speak dwarven language (just so they're distinct from hearthians that way)
-- Made nomaian bones more fragile
+- Changed nomaian civ to speak dwarven language (just so they're distinct from hearthians in language)
+- Made nomaian bones more fragile (less dense, and lower impact/compressive yields/fracture points)
 - Adjusted the `SYMBOL` set that the nomai use; they will now name temples, libraries and their civilizations/misc stuff after the concepts of thought and truth, and also the mythic in the case of temples
-- Nomai now have variations in their antler sizes/proportions, making them more unique
+- Nomai now have variations in their antler sizes/proportions, making them more unique from one another
 
 #### Fixed
 - Nomaian antler material and tissue is now properly described as "antler" instead of "horn"
@@ -65,12 +66,12 @@ The meaning of each subcategory of change is as follows:
 
 #### Added
 - Gave anglerfish `[EXTRAVISION]` so that they're not basically helpless despite their size now
-- Anglerfish tentacles and spiked rear fins, to be more accurate to the game!
+- Anglerfish tentacles and spiked rear fins, to be more accurate to their game anatomy!
 
 #### Changed
 - Made anglerfishes teeth much bigger/proportionally accurate
 - Made anglerfish only spawn in "savage" oceans now
-- Made anglerfish eggs more accurate to them being fish; no more hard eggshell, just jelly!
+- Made anglerfish eggs more accurate to them being fish; no more hard eggshell, just jelly and yolk!
 
 #### Fixed
 - Fixed tissues for anglerfishes rod and lure; now the rod is made of skin, fat, muscle and bone, and the lure is a unique tissue
@@ -82,15 +83,15 @@ The meaning of each subcategory of change is as follows:
   <summary>Spoiler warning</summary>
 
 #### Added
-- Mentioned in `README.md` about the owlk civ "board game" toy (was already in the mod, just not mentioned)
-- Some more owlk civ sphere alignments
-- Rappigs. Huge, 4-eyed creatures resembling pigs with the ears and tails of rabbits.
-- Dragonfish. Large (bigger than a human!) fish capable of flight, and which can breathe air. They are named for their fins, which bear a striking resemblance to the wings of a dragonfly.
-- Chordochestrions; a one-stringed instrument played with a bow, and it has an old-fashioned music box built into it.
+- Info in `README.md` about the owlk civ "board game" toy (was already in the mod, just not mentioned)
+- Some more owlk civ sphere alignments; unlike hearthians and nomai, they already had some, but now they _also_ will pay extra for/worship the spheres of rivers and the moon, and less for goods relating to death, murder, rebirth, and suicide
+- Rappigs. Huge, 4-eyed creatures resembling pigs with the ears and tails of rabbits
+- Dragonfish. Large (bigger than a human!) fish capable of flight, and which can breathe air. They are named for their fins, which bear a striking resemblance to the wings of a dragonfly
+- Chordochestrions; a one-stringed instrument played with a bow, and it has an old-fashioned music box built into it
 
 #### Changed
 - Edited owlk arm, hand, finger and leg sizes; all are a big bigger/longer
-- Adjusted owlk colors; their nails and hooves now share the same color as their finger scales, and their feathers and skin now have more variety in shades of green, as well as greys.
+- Adjusted owlk colors; their nails and hooves now share the same color as their finger scales, and their feathers and skin now have more variety in shades of green, as well as greys
 - Put scales on the owlks lower legs and forearms
 - The owlk civ no longer uses spears or maces, but in return now have access to pickaxes (for digging), greataxes, two-handed swords (well, _they_ only use one hand), halberds, and pikes
 - Adjusted the `SYMBOL` set that owlks will use; they will now name a lot of things based on the concepts of protection, the mythic, mystery, light, and darkness
