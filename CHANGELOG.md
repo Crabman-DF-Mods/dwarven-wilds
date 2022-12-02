@@ -18,6 +18,9 @@ The meaning of each subcategory of change is as follows:
 
 ### Misc
 
+#### Changed
+- Updated `README.md` link to point to my new DFFD user ID
+
 #### Fixed
 - Changed readme Echoes of the Eye module "when should I install this module" guidance; it was too spoilery
 
