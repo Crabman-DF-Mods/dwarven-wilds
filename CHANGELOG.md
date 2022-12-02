@@ -16,6 +16,11 @@ The meaning of each subcategory of change is as follows:
 
 ## [Unreleased]
 
+### Misc
+
+#### Fixed
+- Typo in changelog (1.1.0 update's "Nomai" section had the wrong header size)
+
 ## [v1.1.0] - 2022-12-02
 
 ### Misc - 3 Changed, 1 Removed, 1 Fixed
@@ -31,7 +36,7 @@ The meaning of each subcategory of change is as follows:
 #### Fixed
 - Changed readme Echoes of the Eye module "when should I install this module" guidance; it was too spoilery
 
-## Nomai - 1 Fixed
+### Nomai - 1 Fixed
 
 #### Fixed
 - Nomai now correctly have three-toed feet instead of hooves
