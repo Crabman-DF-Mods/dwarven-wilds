@@ -16,7 +16,9 @@ The meaning of each subcategory of change is as follows:
 
 ## [Unreleased]
 
-### Misc
+## [v1.1.0] - 2022-12-02
+
+### Misc - 3 Changed, 1 Removed, 1 Fixed
 
 #### Changed
 - Updated the mod's versioning conventions
@@ -29,7 +31,7 @@ The meaning of each subcategory of change is as follows:
 #### Fixed
 - Changed readme Echoes of the Eye module "when should I install this module" guidance; it was too spoilery
 
-## Nomai
+## Nomai - 1 Fixed
 
 #### Fixed
 - Nomai now correctly have three-toed feet instead of hooves
@@ -199,7 +201,8 @@ The initial public release. It contains the following:
 </details>
 
 <!--Links-->
-[Unreleased]: https://github.com/Crabman-DF-Mods/dwarven-wilds/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/Crabman-DF-Mods/dwarven-wilds/compare/v1.1.0...HEAD
+[v1.1.0]: https://github.com/Crabman-DF-Mods/dwarven-wilds/compare/v1.0.0...v1.1.0
 [v1.0.0]: https://github.com/Crabman-DF-Mods/dwarven-wilds/compare/v0.1.1...v1.0.0
 [v0.1.1]: https://github.com/Crabman-DF-Mods/dwarven-wilds/compare/v0.1.0...v0.1.1
 [v0.1.0]: https://github.com/Crabman-DF-Mods/dwarven-wilds/releases/tag/v0.1.0
