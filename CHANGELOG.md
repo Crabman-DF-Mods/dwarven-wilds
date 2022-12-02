@@ -24,6 +24,11 @@ The meaning of each subcategory of change is as follows:
 #### Fixed
 - Changed readme Echoes of the Eye module "when should I install this module" guidance; it was too spoilery
 
+## Nomai
+
+#### Fixed
+- Nomai now correctly have three-toed feet instead of hooves
+
 ## [v1.0.0] - 2022-02-15
 
 ### Misc - 3 Added, 4 Changed
