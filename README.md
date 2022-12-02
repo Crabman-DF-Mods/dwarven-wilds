@@ -10,7 +10,7 @@ __Therefore I highly recommend that you first play Outer Wilds (and/or its DLC, 
 
 __The raw files comments have even more spoilers (including story ones!) than you would get just playing with/using this mod__, so be warned about that before you go digging around this mod's code (even the spoiler-free module files have some spoilery comments!). You should finish both the base game and DLC (like, see the actual ending) before reading the code in this mod.
 
-This mod was created with the help of the [Dwarf Fortress RAW language server extension][LS], which is currently in beta, but I still recommend it for anyone wanting to make Dwarf Fortress mods, either for the first time or as a veteran.
+This mod was created with the help of the [Dwarf Fortress RAW language server extension][LS], which I highly recommend to anyone wanting to make Dwarf Fortress mods, either for the first time or as a veteran.
 
 If you want to check out my other mods, follow one of these links:
 - DFFD downloads: https://dffd.bay12games.com/who.php?id=5705
