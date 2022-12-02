@@ -14,7 +14,6 @@ material_template_ow_util
 	[STATE_ADJ:GAS:boiling egg jelly]
 	[DISPLAY_COLOR:7:0:1]
 	[MATERIAL_VALUE:1]
-	TODO adjust properties to be more accurate/consistent at some point; maybe it's already good, but maybe not
 	[SPEC_HEAT:4181]
 	[IGNITE_POINT:10508]
 	[MELTING_POINT:10090]

@@ -103,8 +103,8 @@ The official rules are unknown, all we've heard is:
 [INSTRUMENT_PIECE:COMB:OW_EOTE_INSTRUMENT_COMB:comb:combs:ALWAYS_SINGULAR]
 [INSTRUMENT_PIECE:STRING:OW_EOTE_INSTRUMENT_STRING:string:strings:ALWAYS_SINGULAR]
 [INSTRUMENT_PIECE:BOW:OW_EOTE_INSTRUMENT_BOW:bow:bows:STANDARD]
-[VOLUME_mB:0:10000] TODO check accuracy of this
-[SOUND_PRODUCTION:BOWED:BOW:STRING] TODO add something appropriate for the music box
+[VOLUME_mB:0:10000]
+[SOUND_PRODUCTION:BOWED:BOW:STRING] #11 music box
 [PITCH_CHOICE:HARMONIC_SERIES:STRING]
 [TUNING:TIGHTENING:STRING]
 Thanks to _nebula on the Outer Wilds Discord for the below pitch ranges and timbres!

@@ -27,7 +27,6 @@ in case I ever need to change their names, without needing to change the ID.
 	[CANOPENDOORS]
 	[LOW_LIGHT_VISION:9500] they can navigate in pitch black, but still need light to see you?
 	[SMELL_TRIGGER:9990] almost cannot smell
-	BONECARN maybe later when this doesn't prevent them being omnivores
 	[BABY:1]
 	[CHILD:16][GENERAL_CHILD_NAME:owlk fawn:owlk fawns] tricky decision; fawn or hatchling?
 	[MAXAGE:800:850]
@@ -91,7 +90,7 @@ in case I ever need to change their names, without needing to change the ID.
 	[BODY_DETAIL_PLAN:STANDARD_HEAD_POSITIONS]
 	[BODY_DETAIL_PLAN:HUMANOID_HEAD_POSITIONS]
 	[BODY_DETAIL_PLAN:HUMANOID_RIBCAGE_POSITIONS]
-	todo update owlk legs to be digitigrade eventually
+	#5 digitigrade legs
 	[BODY_DETAIL_PLAN:HUMANOID_RELSIZES]
 	[RELSIZE:BY_CATEGORY:ARM_UPPER:300] 1.5x
 	[RELSIZE:BY_CATEGORY:ARM_LOWER:300] 1.5x
@@ -216,7 +215,7 @@ in case I ever need to change their names, without needing to change the ID.
 		 [PLUS_TL_GROUP:BY_CATEGORY:ALL:HOOF]
 			[TL_COLOR_MODIFIER:DARK_GREEN:1:DARK_OLIVE:20:SEA_GREEN:24] costa del sol, and kelp
 				[TLCM_NOUN:scales:PLURAL]
-		[SET_TL_GROUP:BY_CATEGORY:EYE:EYE] todo supposed to glow when lit, like real owl eyes
+		[SET_TL_GROUP:BY_CATEGORY:EYE:EYE] #7 glow when lit up
 			[TL_COLOR_MODIFIER:BLACK:1]
 				[TLCM_NOUN:eyes:PLURAL]
 	[SELECT_MATERIAL:HORN]
@@ -371,7 +370,7 @@ that one owlk is playing in the simulation.
 	[NO_WINTER]
 	[PREFSTRING:shining fins]
 	[PREFSTRING:graceful motion]
-	[FLIER][DIVE_HUNTS_VERMIN] TODO make them gobble flying vermin
+	[FLIER][DIVE_HUNTS_VERMIN]
 	[NOCTURNAL]
 	[NO_SLEEP][NO_DRINK]
 	[SWIMS_INNATE][AMPHIBIOUS]

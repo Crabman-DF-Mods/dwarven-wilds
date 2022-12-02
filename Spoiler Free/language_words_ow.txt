@@ -43,7 +43,7 @@ and I can't just add it because it could have weird effects in other areas.
 		[REAR_COMPOUND_ADJ]
 		[THE_COMPOUND_ADJ]
 
-[WORD:HAL] TODO find out what this actually is in geology terms
+[WORD:HAL]
 	[NOUN:hal:hal]
 		[FRONT_COMPOUND_NOUN_SING]
 		[REAR_COMPOUND_NOUN_SING]

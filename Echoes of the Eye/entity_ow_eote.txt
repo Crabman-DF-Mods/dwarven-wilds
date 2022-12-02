@@ -161,7 +161,7 @@ entity_ow_eote
 	[COMMON_DOMESTIC_PULL]
 	[COMMON_DOMESTIC_MOUNT]
 	[COMMON_DOMESTIC_PET]
-	[ANIMAL] # not necessary to have this since they're already PET_EXOTIC, but still
+	[ANIMAL] // not necessary to have this since they're already PET_EXOTIC, but still
 		[ANIMAL_TOKEN:OW_LONG_EARED]
 		[ANIMAL_ALWAYS_PET]
 	[USE_GOOD_PLANTS]
@@ -430,7 +430,7 @@ entity_ow_eote
 	[VALUE:ROMANCE:5]
 	[VALUE:NATURE:15]
 	[VALUE:PEACE:40]
-	TODO unique owlk positions
+	#9 unique positions
 	[VARIABLE_POSITIONS:ALL]
 	[SITE_VARIABLE_POSITIONS:ALL]
 	[STONE_SHAPE:OVAL_CABOCHON]

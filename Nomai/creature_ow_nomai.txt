@@ -30,8 +30,6 @@ creature_ow_nomai
 	[PREFSTRING:careful nature]
 	[PREFSTRING:surefootedness]
 	[PREFSTRING:third eye]
-	TODO make them herbivores when this doesn't break gameplay
-	TODO with the magic update, make their third eye see special things
 	[PERSONALITY:VIOLENT:0:40:90]
 	[PERSONALITY:WASTEFULNESS:15:50:91]
 	[PERSONALITY:FRIENDLINESS:9:60:100]
@@ -240,7 +238,7 @@ creature_ow_nomai
 	[MANNERISM_HEAD:head]
 	[MANNERISM_EYES:eyes]
 	[MANNERISM_MOUTH:mouth]
-	[MANNERISM_HAIR:fur] TODO make sure this doesn't give a weird description
+	[MANNERISM_HAIR:fur]
 	[MANNERISM_KNUCKLES:knuckles]
 	[MANNERISM_LIPS:lips]
 	[MANNERISM_CHEEK:cheek]

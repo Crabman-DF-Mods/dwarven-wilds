@@ -23,6 +23,9 @@ The meaning of each subcategory of change is as follows:
 - Updated `README.md` link to point to my new DFFD user ID
 - Edited one of the `README.md` starting paragraphs to reflect that the DF RAW LS is out of beta now
 
+#### Removed
+- Took out the "TODO" notes/comments, moved them into GitHub's issue tracker
+
 #### Fixed
 - Changed readme Echoes of the Eye module "when should I install this module" guidance; it was too spoilery
 

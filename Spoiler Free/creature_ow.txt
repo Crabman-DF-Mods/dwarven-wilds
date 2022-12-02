@@ -89,7 +89,7 @@ creature_ow
 		[CDI:TARGET_RANGE:C:15]
 		[CDI:MAX_TARGET_NUMBER:C:1]
 		[CDI:WAIT_PERIOD:30]
-	[BODY_SIZE:0:0:900] TODO: when game supports, do some kind of tadpole thing
+	[BODY_SIZE:0:0:900]
 	[BODY_SIZE:1:168:9500]
 	[BODY_SIZE:12:0:70000]
 	[BODY_APPEARANCE_MODIFIER:HEIGHT:30:90:98:100:102:105:135] chert
@@ -189,7 +189,6 @@ creature_ow
 	[MANNERISM_POSTURE]
 	[MANNERISM_STRETCH]
 	[MANNERISM_EYELIDS]
-	TODO: when possible for them to still reproduce, change to only 1 gender/hermaphroditic
 	[CASTE:FEMALE]
 		[FEMALE]
 		[LAYS_EGGS]

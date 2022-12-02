@@ -2,8 +2,6 @@ material_template_ow
 
 [OBJECT:MATERIAL_TEMPLATE]
 
-TODO make more accurate; I just copied tallow and edited sligtly, I don't know
-the actual properties of marshmallows.
 [MATERIAL_TEMPLATE:MARSHMALLOW_TEMPLATE]
 	[STATE_COLOR:ALL_SOLID:CREAM]
 	[STATE_NAME:ALL_SOLID:marshmallow]

@@ -149,7 +149,7 @@ entity_ow
 	[STONE_PREF]
 	[OUTDOOR_WOOD]
 	[OUTDOOR_FARMING]
-	[INDOOR_FARMING] # TODO remove this after making ways other than sweet pods to make marshmallows
+	[INDOOR_FARMING] #17 remove later
 	[OUTDOOR_GARDENS]
 	[USE_ANIMAL_PRODUCTS]
 	[COMMON_DOMESTIC_PACK]
@@ -336,7 +336,7 @@ entity_ow
 	[PERMITTED_REACTION:ROSE_GOLD_MAKING]
 
 	[PERMITTED_REACTION:MAKE_MARSHMALLOW]
-	TODO sap wine
+	#18 sap wine
 
 	[WORLD_CONSTRUCTION:WALL]
 	[WORLD_CONSTRUCTION:BRIDGE]
