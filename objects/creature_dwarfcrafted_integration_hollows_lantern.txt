@@ -1,0 +1,21 @@
+creature_dwarfcrafted_integration_hollows_lantern
+
+[OBJECT:CREATURE]
+
+
+==============================================================================================
+##############################################################################################
+==============================================================================================
+# BASE GAME SPOILER WARNING! #
+----------------------------------------------------------------------------------------------
+# CONTENTS BELOW THIS POINT CONTAIN SPOILERS FOR OUTER WILDS BASE GAME! #
+# DO NOT READ ANY FURTHER UNLESS YOU'RE OKAY WITH SEEING THOSE SPOILERS! #
+==============================================================================================
+##############################################################################################
+==============================================================================================
+
+
+[SELECT_CREATURE:MC_CAULDRON]
+	[GO_TO_TAG:APPLY_CREATURE_VARIATION:CORRUPTED_CAULDRON_CASTE]
+	[APPLY_CREATURE_VARIATION:CORRUPTED_CAULDRON_CASTE:STAR_PLATINUM:star platinum:30]
+	[GO_TO_END]
