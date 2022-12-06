@@ -26,10 +26,6 @@ If you want to know how much you need to play before you can install safely with
 - __Dark Bramble:__ you should thoughrougly explore the Dark Bramble and Ember Twin planets. A good long comb through both should reveal everything (and all information about) the things you'll find in this module.
 - __Echoes of the Eye:__ I recommend completing the DLC. Everything related to the DLC will be in the bottom-right area of the rumor map/shiplog, with blue colored "rumor boxes", but unfortunately there is no way to be specific about how you'll know you've completed it without it being some kind of spoiler. To say it vaguely, you will have found _at least_ 12 DLC shiplog/rumor boxes, and you will have solved some sort of thing you've been working towards in the DLC, and it won't involve the game credits rolling (only the base game ending and joke endings have credits).
 
-## Manual Spoiler Removal
-
-If you wish to play this mod without spoilers, you CAN manually remove the spoilery files. files ending with `_ow` are safe even if you just booted the game up 10 minutes ago, and to avoid spoilers for each of the things listed above, you can unzip the mod, go into `/objects`, and delete the files that end in the thing you're avoiding spoilers for.
-
 ## Content
 
 ### Spoiler Free
