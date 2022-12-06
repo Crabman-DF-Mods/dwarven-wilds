@@ -15,9 +15,6 @@ b_detail_plan_ow_dark_bramble
 ==============================================================================================
 
 
-[BODY_DETAIL_PLAN:ILLICIUM_TISSUES]
-    [BP_LAYERS:BY_CATEGORY:ROD:ARG4:25:ARG3:25:ARG2:5:ARG1:1]
-
 [BODY_DETAIL_PLAN:OW_ANGLER_BP_POSITIONS]
     [BP_POSITION:BY_CATEGORY:FIN:BACK]
     [BP_POSITION:BY_CATEGORY:TENTACLE:BACK]

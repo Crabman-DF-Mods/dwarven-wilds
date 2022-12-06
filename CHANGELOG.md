@@ -18,6 +18,9 @@ The meaning of each subcategory of change is as follows:
 
 ### Misc
 
+#### Removed
+- Removed `ILLICIUM`, `ILLICIUM_TISSUES`, `body_ow_eote.txt`, `body_ow_nomai.txt`, `body_ow.txt`, and the "Utility" module
+
 #### Fixed
 - Typo in changelog (1.1.0 update's "Nomai" section had the wrong header size)
 
