@@ -15,7 +15,7 @@ creature_ow_nomai
 ==============================================================================================
 
 
-[CREATURE:OW_NOMAI]
+[CREATURE:NOMAI]
 	[DESCRIPTION:A furry humanoid with three eyes, three curved antlers, and digitigrade legs. Its third eye allows it to see things others cannot.]
 	[NAME:nomai:nomai:nomaian]
 	[CASTE_NAME:nomai:nomai:nomaian]

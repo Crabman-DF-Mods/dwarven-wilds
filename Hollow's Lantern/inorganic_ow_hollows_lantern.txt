@@ -18,14 +18,14 @@ inorganic_ow_hollows_lantern
 The ore in the Timber Hearth mines and Ash Twin.
 The "star" in the name came from how it seems to look like a starry sky in the mines and on
 Ash Twin.
-[INORGANIC:OW_NATIVE_STAR_PLATINUM]
+[INORGANIC:NATIVE_STAR_PLATINUM]
     [STONE_NAME:star platinum nuggets]
 	[ENVIRONMENT:ALLUVIAL:CLUSTER_SMALL:100]
 	[ENVIRONMENT_SPEC:OLIVINE:VEIN:100]
 	[ENVIRONMENT_SPEC:MAGNETITE:VEIN:100]
 	[ENVIRONMENT_SPEC:CHROMITE:CLUSTER_SMALL:100]
 	[ITEM_SYMBOL:'*']
-	[METAL_ORE:OW_STAR_PLATINUM:100]
+	[METAL_ORE:STAR_PLATINUM:100]
 	[STATE_NAME_ADJ:ALL_SOLID:native star platinum]
 	[STATE_NAME_ADJ:LIQUID:molten native star platinum]
 	[STATE_NAME_ADJ:GAS:boiling native star platinum]
@@ -62,7 +62,7 @@ Ash Twin.
 	[ITEMS_HARD]
 	[IS_STONE]
 
-[INORGANIC:OW_STAR_PLATINUM]
+[INORGANIC:STAR_PLATINUM]
 	[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
 	[STATE_NAME_ADJ:ALL_SOLID:star platinum]
 	[STATE_NAME_ADJ:LIQUID:molten star platinum]

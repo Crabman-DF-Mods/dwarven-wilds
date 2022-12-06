@@ -2,7 +2,7 @@ creature_ow
 
 [OBJECT:CREATURE]
 
-[CREATURE:OW_HEARTHIAN]
+[CREATURE:HEARTHIAN]
 	[DESCRIPTION:A curious, blue-skinned humanoid with four eyes and long ears. Its hands are composed of two fingers and a thumb.]
 	[NAME:hearthian:hearthians:hearthian]
 	[CASTE_NAME:hearthian:hearthians:hearthian]

@@ -15,9 +15,9 @@ entity_ow_nomai
 ==============================================================================================
 
 
-[ENTITY:OW_NOMAI]
+[ENTITY:NOMAI]
 	[ALL_MAIN_POPS_CONTROLLABLE]
-	[CREATURE:OW_NOMAI]
+	[CREATURE:NOMAI]
 	[TRANSLATION:DWARF]
 
 	[DIGGER:ITEM_WEAPON_PICK]
