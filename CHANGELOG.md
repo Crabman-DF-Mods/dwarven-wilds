@@ -18,6 +18,9 @@ The meaning of each subcategory of change is as follows:
 
 ### Misc
 
+### Added
+- Added vanilla `50.01`'s `NAME_BUILDING_HOSPITAL` symbol for both all civs
+
 #### Changed
 - Moved all files into one `objects` folder (sadly, this means no configurable modules, for now)
 
