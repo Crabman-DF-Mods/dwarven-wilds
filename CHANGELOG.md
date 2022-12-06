@@ -23,6 +23,7 @@ The meaning of each subcategory of change is as follows:
 
 #### Changed
 - Moved all files into one `objects` folder (sadly, this means no configurable modules, for now)
+- Hearthians use `4EYELIDS_STACKED` now instead of `4EYELIDS`
 
 #### Removed
 - Removed `ILLICIUM`, `ILLICIUM_TISSUES`, `body_ow_eote.txt`, `body_ow_nomai.txt`, `body_ow.txt`, and the "Utility" module
