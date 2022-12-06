@@ -6,7 +6,7 @@ This mod for [Dwarf Fortress][Dwarf_Fortress] adds the unique creatures, civiliz
 
 __Be warned__, Outer Wilds is a game whose fun comes from discovery and gaining knowledge through exploration of the world, and __over half of this mod's contents/modules would count as spoilers for either the main game or DLC__, and this would likely impact the enjoyability of the game.
 
-__Therefore I highly recommend that you first play Outer Wilds (and/or its DLC, Echoes of the Eye) before using the spoilery modules of this mod.__ You don't need to play all the way to the end of the base game to find everything that is in this mod, and there are spoilerless instructions a couple of heading sections down that reveal what the "safe points" are for each module.
+__Therefore I highly recommend that you first play Outer Wilds (and its DLC, Echoes of the Eye) before using this mod.__ You don't need to play all the way to the end of the base game to find everything that is in this mod, and there are spoilerless instructions a couple of heading sections down that reveal what the "safe points" are.
 
 __The raw files comments have even more spoilers (including story ones!) than you would get just playing with/using this mod__, so be warned about that before you go digging around this mod's code (even the spoiler-free module files have some spoilery comments!). You should finish both the base game and DLC (like, see the actual ending) before reading the code in this mod.
 
@@ -16,30 +16,19 @@ If you want to check out my other mods, follow one of these links:
 - DFFD downloads: https://dffd.bay12games.com/who.php?id=5705
 - Github sources: https://github.com/Crabman-DF-Mods
 
-## Installation
+## When you are safe from spoilers
 
-There are 7 folders here, each for a different portion of the mod:
-- __Utility:__ contains materials, body parts and body plans shared by multiple other modules. Installing this module by itself will do nothing at all, and __the other modules depend on this one__.
-- __Spoiler Free:__ contains the "hearthian" creatures/civ, and the "ghost matter" material (which aren't spoilers because you find out about them at the start of the game).
-- __Nomai:__ contains the Nomai creatures/civ. Their existence/appearance is not a spoiler since they are seen at the start of the game in the hearthian museum before you even get in your spaceship, but some aspects of their culture (and therefore civ) are sort of spoilers.
-- __Hollow's Lantern:__ contains content found on "Hollow's Lantern", the moon of the planet "Brittle Hollow".
-- __Giant's Deep:__ contains content from the planet "Giant's Deep".
-- __Dark Bramble:__ contains content from the planet "Dark Bramble".
-- __Echoes of the Eye:__ contains content from the Echoes of the Eye DLC.
+If you want to know how much you need to play before you can install safely without spoilers:
 
-Decide which of these modules you want (__note, you always need "Utility", because the other modules depend on it__), and copy-paste all the files in the corresponding folder into `/raw/objects/`. If you ever decide to change to a different, more spoilery version, just dump that folder's files in as well (you'll probably want to generate a new world when doing this though).
-
-## When to Install Each Module
-
-If you want to know which modules you can install without spoilers:
-
-- __Utility:__ you must always install this one to use the other modules. It has no spoilers (unless you read its code) because it doesn't do anything by itself, it just supplements the other modules.
-- __Spoiler Free:__ as this module has no spoilers (it's all stuff you find right at the start of the game), you can enable this immediately.
-- __Nomai:__ the spoilers in this module all pertain to the culture of the nomai (since their appearance/existence itself is not a spoiler), discovered through the writings they left behind. Enable this when you have read a lot of nomaian writings and feel like you understand their culture and what their interests are.
+- __Nomai:__ the spoilers with nomai all pertain to their culture (since their appearance/existence itself is not a spoiler), discovered through the writings they left behind. Enable this when you have read a lot of nomaian writings and feel like you understand their culture and what their interests are.
 - __Hollow's Lantern:__ explore Hollow's Lantern (the moon floating around Brittle Hollow), you'll find information there about something you likely already saw on Timber Hearth (the starting planet), and this information is a spoiler.
-- __Giant's Deep:__ this one is really simple, just visit Giant's Deep, and go anywhere underwater, then look down. You'll see all this module has to offer below you.
-- __Dark Bramble:__ you should thoughrougly explore the Dark Bramble and Ember Twin planets before enabling this module. A good long comb through both should reveal everything (and all information about) the things you'll find in this module.
-- __Echoes of the Eye:__ I recommend completing the DLC before enabling this module. Everything related to the DLC will be in the bottom-right area of the rumor map/shiplog, with blue colored "rumor boxes", but unfortunately there is no way to be specific about how you'll know you've completed it without it being some kind of spoiler. To say it vaguely, you will have found _at least_ 12 DLC shiplog/rumor boxes, and you will have solved some sort of thing you've been working towards in the DLC, and it won't involve the game credits rolling (only the base game ending and joke endings have credits).
+- __Giant's Deep:__ this one is really simple, just visit Giant's Deep, and go anywhere underwater, then look down.
+- __Dark Bramble:__ you should thoughrougly explore the Dark Bramble and Ember Twin planets. A good long comb through both should reveal everything (and all information about) the things you'll find in this module.
+- __Echoes of the Eye:__ I recommend completing the DLC. Everything related to the DLC will be in the bottom-right area of the rumor map/shiplog, with blue colored "rumor boxes", but unfortunately there is no way to be specific about how you'll know you've completed it without it being some kind of spoiler. To say it vaguely, you will have found _at least_ 12 DLC shiplog/rumor boxes, and you will have solved some sort of thing you've been working towards in the DLC, and it won't involve the game credits rolling (only the base game ending and joke endings have credits).
+
+## Manual Spoiler Removal
+
+If you wish to play this mod without spoilers, you CAN manually remove the spoilery files. files ending with `_ow` are safe even if you just booted the game up 10 minutes ago, and to avoid spoilers for each of the things listed above, you can unzip the mod, go into `/objects`, and delete the files that end in the thing you're avoiding spoilers for.
 
 ## Content
 
