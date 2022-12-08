@@ -40,6 +40,7 @@ The meaning of each subcategory of change is as follows:
 
 #### Added
 - Integration with DwarfCrafted (if using this mod at the same time, you get one extra type of Corrupted Cauldron)
+- `STATE_COLOR` for native star platinum, for compatability with `50.01`
 </details>
 
 ## [v1.1.0] - 2022-12-02
