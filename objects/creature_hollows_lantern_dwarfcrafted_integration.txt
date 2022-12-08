@@ -15,7 +15,7 @@ creature_hollows_lantern_dwarfcrafted_integration
 ==============================================================================================
 
 
-[SELECT_CREATURE:MC_CAULDRON]
+[SELECT_CREATURE:CORRUPTED_CAULDRON]
 	[GO_TO_TAG:ITEMCORPSE]
 	[APPLY_CREATURE_VARIATION:CORRUPTED_CAULDRON_CASTE:STAR_PLATINUM:star platinum:30]
 	[GO_TO_END]
