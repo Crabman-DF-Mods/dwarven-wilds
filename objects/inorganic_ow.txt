@@ -1,4 +1,4 @@
-inorganic_ow
+inorganic_timber_hearth
 
 [OBJECT:INORGANIC]
 

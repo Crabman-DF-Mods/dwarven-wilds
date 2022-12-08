@@ -24,6 +24,7 @@ The meaning of each subcategory of change is as follows:
 
 #### Changed
 - Moved all files into one `/objects` folder (sadly, this means no configurable modules, for now)
+- Renamed the files as well (updated the headers at the top of each file accordingly too)
 - Hearthians use `4EYELIDS_STACKED` now instead of `4EYELIDS`
 - Updated ages for sapient races so they become adults at 18 (to match vanilla `50.01`)
 

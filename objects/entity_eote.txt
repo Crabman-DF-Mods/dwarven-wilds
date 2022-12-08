@@ -1,4 +1,4 @@
-entity_ow_eote
+entity_eote
 
 [OBJECT:ENTITY]
 

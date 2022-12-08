@@ -1,4 +1,4 @@
-plant_ow
+plant_timber_hearth
 
 [OBJECT:PLANT]
 

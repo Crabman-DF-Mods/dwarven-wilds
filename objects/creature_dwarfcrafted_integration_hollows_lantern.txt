@@ -1,4 +1,4 @@
-creature_dwarfcrafted_integration_hollows_lantern
+creature_hollows_lantern_dwarfcrafted_integration
 
 [OBJECT:CREATURE]
 

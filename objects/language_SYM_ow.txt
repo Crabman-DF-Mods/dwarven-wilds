@@ -1,4 +1,4 @@
-language_SYM_ow
+language_SYM_timber_hearth
 
 [OBJECT:LANGUAGE]
 

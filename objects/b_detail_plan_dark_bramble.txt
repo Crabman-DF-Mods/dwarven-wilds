@@ -1,4 +1,4 @@
-b_detail_plan_ow_dark_bramble
+b_detail_plan_dark_bramble
 
 [OBJECT:BODY_DETAIL_PLAN]
 

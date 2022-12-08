@@ -1,4 +1,4 @@
-entity_ow_nomai
+entity_nomai
 
 [OBJECT:ENTITY]
 

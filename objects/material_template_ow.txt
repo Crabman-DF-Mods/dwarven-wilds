@@ -1,4 +1,4 @@
-material_template_ow
+material_template_timber_hearth
 
 [OBJECT:MATERIAL_TEMPLATE]
 

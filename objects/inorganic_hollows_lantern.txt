@@ -1,4 +1,4 @@
-inorganic_ow_hollows_lantern
+inorganic_hollows_lantern
 
 [OBJECT:INORGANIC]
 

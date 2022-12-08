@@ -1,4 +1,4 @@
-creature_ow_nomai
+creature_nomai
 
 [OBJECT:CREATURE]
 

@@ -1,4 +1,4 @@
-creature_ow
+creature_timber_hearth
 
 [OBJECT:CREATURE]
 

@@ -1,4 +1,4 @@
-creature_ow_dark_bramble
+creature_dark_bramble
 
 [OBJECT:CREATURE]
 

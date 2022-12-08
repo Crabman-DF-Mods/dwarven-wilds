@@ -1,4 +1,4 @@
-reaction_ow_eote
+reaction_eote
 
 [OBJECT:REACTION]
 

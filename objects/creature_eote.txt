@@ -1,4 +1,4 @@
-creature_ow_eote
+creature_eote
 
 [OBJECT:CREATURE]
 

@@ -1,4 +1,4 @@
-reaction_ow
+reaction_timber_hearth
 
 [OBJECT:REACTION]
 

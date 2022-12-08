@@ -1,4 +1,4 @@
-creature_ow_giants_deep
+creature_giants_deep
 
 [OBJECT:CREATURE]
 
