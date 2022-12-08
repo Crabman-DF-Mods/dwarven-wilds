@@ -16,23 +16,31 @@ The meaning of each subcategory of change is as follows:
 
 ## [Unreleased]
 
-### Misc
+### No Spoilers
 
 #### Added
 - Added vanilla `50.01`'s `NAME_BUILDING_HOSPITAL` symbol for all civs
-- Integration with DwarfCrafted (if using this mod, you get one extra type of Corrupted Cauldron)
 
 #### Changed
 - Moved all files into one `/objects` folder (sadly, this means no configurable modules, for now)
 - Hearthians use `4EYELIDS_STACKED` now instead of `4EYELIDS`
 
 #### Removed
-- Removed `ILLICIUM`, `ILLICIUM_TISSUES`, `body_ow_eote.txt`, `body_ow_nomai.txt`, `body_ow.txt`, and the "Utility" module
+- Removed several body parts and body detail plans, including everything that was in the "Utility" module
 - Removed `OW_` prefix from many objects
 - For DF `50.01`, removed the entity tokens `UNDEAD_CANDIDATE`, `PERMITTED_JOB:ARCHITECT`, and `LAND_HOLDER_TRIGGER`
 
 #### Fixed
 - Typo in changelog (1.1.0 update's "Nomai" section had the wrong header size)
+
+### Hollow's Lantern
+
+<details>
+  <summary>Spoiler warning</summary>
+
+#### Added
+- Integration with DwarfCrafted (if using this mod at the same time, you get one extra type of Corrupted Cauldron)
+</details>
 
 ## [v1.1.0] - 2022-12-02
 
