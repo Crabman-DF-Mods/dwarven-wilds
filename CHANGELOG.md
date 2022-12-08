@@ -18,12 +18,12 @@ The meaning of each subcategory of change is as follows:
 
 ### Misc
 
-### Added
-- Added vanilla `50.01`'s `NAME_BUILDING_HOSPITAL` symbol for both all civs
+#### Added
+- Added vanilla `50.01`'s `NAME_BUILDING_HOSPITAL` symbol for all civs
 - Integration with DwarfCrafted (if using this mod, you get one extra type of Corrupted Cauldron)
 
 #### Changed
-- Moved all files into one `objects` folder (sadly, this means no configurable modules, for now)
+- Moved all files into one `/objects` folder (sadly, this means no configurable modules, for now)
 - Hearthians use `4EYELIDS_STACKED` now instead of `4EYELIDS`
 
 #### Removed
