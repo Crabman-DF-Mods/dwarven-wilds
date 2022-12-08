@@ -24,6 +24,8 @@ The meaning of each subcategory of change is as follows:
 #### Changed
 - Moved all files into one `/objects` folder (sadly, this means no configurable modules, for now)
 - Hearthians use `4EYELIDS_STACKED` now instead of `4EYELIDS`
+- Updated ages for sapient races so they become adults at 18 (to match vanilla `50.01`)
+
 
 #### Removed
 - Removed several body parts and body detail plans, including everything that was in the "Utility" module

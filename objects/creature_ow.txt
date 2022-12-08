@@ -155,7 +155,7 @@ creature_ow
 	[APPLY_CREATURE_VARIATION:TOOTH_BITE_ATTACK]:SECOND
 	[BABY:1]
 	[GENERAL_BABY_NAME:hearthian hatchling:hearthian hatchlings]
-	[CHILD:12]
+	[CHILD:18]
 	[GENERAL_CHILD_NAME:hearthian hatchling:hearthian hatchlings]
 	[EQUIPS]
 	[DIURNAL]
